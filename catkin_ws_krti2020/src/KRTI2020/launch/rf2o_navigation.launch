@@ -1,0 +1,77 @@
+<launch>
+
+    <node pkg="krsbi2019" type="cam2pcl" name="cam2pcl"  >
+    </node>
+
+
+    <!-- run pointcloud_to_laserscan node  -->
+    <node pkg="pointcloud_to_laserscan" type="pointcloud_to_laserscan_node" name="pointcloud_to_laserscan">
+
+        <remap from="cloud_in" to="/cloud_pcl"/>
+        <remap from="scan" to="/laser_scan"/>
+        <rosparam>
+            target_frame: laser_link # Leave disabled to output scan in pointcloud frame
+            transform_tolerance: 0.01
+            min_height: -1.0
+            max_height: 10.0
+
+            angle_min: -3.14 # -M_PI
+            angle_max: 3.14 # M_PI
+            angle_increment: 0.01 #0.0087 # M_PI/360.0
+            scan_time: 0.3333
+            range_min: 0.000
+            range_max: 400.0
+            use_inf: true
+            inf_epsilon: 1.0
+
+            # Concurrency level, affects number of pointclouds queued for processing and number of threads used
+            # 0 : Detect number of cores
+            # 1 : Single threaded
+            # 2->inf : Parallelism level
+            concurrency_level: 1
+        </rosparam>
+
+    </node>
+
+
+
+ 
+
+
+
+  <node pkg="rf2o_laser_odometry" type="rf2o_laser_odometry_node" name="rf2o_laser_odometry" output="screen">
+    <param name="laser_scan_topic" value="/laser_scan"/>        # topic where the lidar scans are being published
+    <param name="odom_topic" value="/odom_rf2o" />              # topic where tu publish the odometry estimations
+    <param name="publish_tf" value="true" />                   # wheter or not to publish the tf::transform (base->odom)
+    <param name="base_frame_id" value="/laser_link"/>          # frame_id (tf) of the mobile robot base. A tf transform from the laser_frame to the base_frame is mandatory
+    <param name="odom_frame_id" value="/odom" />                # frame_id (tf) to publish the odometry estimations    
+    <param name="freq" value="6.0"/>                            # Execution frequency.
+    <param name="verbose" value="true" />                       # verbose
+  </node>
+
+
+  <!-- Arguments -->
+  <arg name="map_file" default="/home/sapto/lap9.yaml"/>
+  <arg name="open_rviz" default="true"/>
+
+
+  <!-- Map server -->
+  <node pkg="map_server" name="map_server" type="map_server" args="$(arg map_file)"/>
+
+  <!-- AMCL -->
+  <include file="$(find krsbi2019)/launch/rf2o_amcl.launch"/>
+  
+
+  <!-- move_base 
+  <include file="$(find turtlebot3_navigation)/launch/move_base.launch">
+    <arg name="model" value="$(arg model)" />
+    <arg name="move_forward_only" value="$(arg move_forward_only)"/>
+  </include>
+   -->
+
+  <!-- rviz -->
+  <group if="$(arg open_rviz)"> 
+    <node pkg="rviz" type="rviz" name="rviz" required="true"
+          args="-d $(find krsbi2019)/rviz/krsbi_navigation.rviz"/>
+  </group>
+</launch>

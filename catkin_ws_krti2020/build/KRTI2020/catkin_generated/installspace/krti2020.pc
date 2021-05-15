@@ -1,0 +1,8 @@
+prefix=/home/dhomanhuri/catkin_ws_krti2020/install
+
+Name: krti2020
+Description: Description of krti2020
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

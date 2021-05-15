@@ -1,0 +1,79 @@
+<!--
+ddd
+-->
+
+<launch>
+
+    <node pkg="krsbi2019" type="circleLocalization" name="circleLocalization"  >
+    </node>
+
+
+    <node pkg="krsbi2019" type="odometry_odom_robot1.py" name="odometry_odom"  >
+    </node>
+
+
+
+    <!-- run pointcloud_to_laserscan node  -->
+    <node pkg="pointcloud_to_laserscan" type="pointcloud_to_laserscan_node" name="pointcloud_to_laserscan">
+
+        <remap from="cloud_in" to="/cloud_pcl"/>
+        <remap from="scan" to="/laser_scan"/>
+        <rosparam>
+            target_frame: laser_link # Leave disabled to output scan in pointcloud frame
+            transform_tolerance: 0.01
+            min_height: -1.0
+            max_height: 10.0
+
+            angle_min: -3.14 # -M_PI
+            angle_max: 3.14 # M_PI
+            angle_increment: 0.028 #0.0087 # M_PI/360.0
+            scan_time: 0.03333
+            range_min: 0.40
+            range_max: 4.0
+            use_inf: true
+            inf_epsilon: 1.0
+
+            # Concurrency level, affects number of pointclouds queued for processing and number of threads used
+            # 0 : Detect number of cores
+            # 1 : Single threaded
+            # 2->inf : Parallelism level
+            concurrency_level: 0
+        </rosparam>
+
+    </node>
+
+
+
+  <node pkg="tf" 
+        type="static_transform_publisher" 
+        name="camera_wheels"
+	args="0 0 0 0 0 0  base_link1 laser_link  100" />
+
+
+
+
+  <!-- Arguments -->
+  <arg name="map_file" default="/home/sapto/lapangan.yaml"/>
+  <arg name="open_rviz" default="true"/>
+
+
+  <!-- Map server -->
+  <node pkg="map_server" name="map_server" type="map_server" args="$(arg map_file)"/>
+
+  <!-- AMCL -->
+  <include file="$(find krsbi2019)/launch/checkerboard_amcl_wheels.launch"/>
+  
+
+  <!-- move_base 
+  <include file="$(find turtlebot3_navigation)/launch/move_base.launch">
+    <arg name="model" value="$(arg model)" />
+    <arg name="move_forward_only" value="$(arg move_forward_only)"/>
+  </include>
+   -->
+
+  <!-- rviz -->
+  <group if="$(arg open_rviz)"> 
+    <node pkg="rviz" type="rviz" name="rviz" required="true"
+          args="-d $(find krsbi2019)/rviz/checkerboard_krsbi_navigation.rviz"/>
+  </group>
+</launch>

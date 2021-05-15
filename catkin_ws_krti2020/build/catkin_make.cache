@@ -1,0 +1,2 @@
+KRTI2020
+-DCATKIN_DEVEL_PREFIX=/home/dhomanhuri/catkin_ws_krti2020/devel -DCMAKE_INSTALL_PREFIX=/home/dhomanhuri/catkin_ws_krti2020/install -G Unix Makefiles
