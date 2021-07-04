@@ -10,7 +10,7 @@ from pymavlink import mavutil
 import time
 
 print "import berhasil"
-connection_string = 'udp:127.0.0.1:14551'
+connection_string = 'udp:10.42.0.161:14550'
 
 print "set connection_string"
 vehicle = dronekit.connect(connection_string, wait_ready=True, timeout=150)
@@ -26,7 +26,7 @@ time.sleep(1)
 print("Taking off")
 while True:
 	vehicle.channels.overrides[3] = 1610
-	if vehicle.rangefinder.distance >= 1.1:
+	if vehicle.rangefinder.distance >= 1.2:
 		print('Reached target altitude: {0:.2f}m'.format(vehicle.rangefinder.distance))
 		break
 	else:
@@ -44,15 +44,6 @@ while i<15:
 		print(i/4)
 	i = i+1
 
-print("Front")
-i = 0
-while i<15:
-	vehicle.channels.overrides[3] = 1500
-	vehicle.channels.overrides[1] = 1500
-	vehicle.channels.overrides[2] = 1400
-	time.sleep(0.25)
-	print('detik: {0:.1f}'.format(i/4))
-	i = i+1
 
 print("Setting LAND mode...")
 vehicle.mode = dronekit.VehicleMode('LAND')

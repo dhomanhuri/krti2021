@@ -1,0 +1,4646 @@
+            .-/+oossssoo+/-.               dhomanhuri@lp 
+        `:+ssssssssssssssssss+:`           ------------- 
+      -+ssssssssssssssssssyyssss+-         OS: Ubuntu 16.04.1 LTS x86_64 
+    .ossssssssssssssssssdMMMNysssso.       Host: 20257 IdeaPad S210 Touch 
+   /ssssssssssshdmmNNmmyNMMMMhssssss/      Kernel: 4.4.0-210-generic 
+  +ssssssssshmydMMMMMMMNddddyssssssss+     Uptime: 8 mins 
+ /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/    Packages: 2778 (dpkg), 3 (snap) 
+.ssssssssdMMMNhsssssssssshNMMMdssssssss.   Shell: bash 4.3.48 
++sssshhhyNMMNyssssssssssssyNMMMysssssss+   Resolution: 1366x768 
+ossyNMMMNyMMhsssssssssssssshmmmhssssssso   DE: Unity 
+ossyNMMMNyMMhsssssssssssssshmmmhssssssso   WM: Compiz 
++sssshhhyNMMNyssssssssssssyNMMMysssssss+   WM Theme: Numix 
+.ssssssssdMMMNhsssssssssshNMMMdssssssss.   Theme: Numix [GTK2/3] 
+ /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/    Icons: Numix-Circle [GTK2/3] 
+  +sssssssssdmydMMMMMMMMddddyssssssss+     Terminal: gnome-terminal 
+   /ssssssssssshdmNNNNmyNMMMMhssssss/      CPU: Intel i3-3217U (4) @ 1.800GHz 
+    .ossssssssssssssssssdMMMNysssso.       GPU: Intel 3rd Gen Core processor Gr 
+      -+sssssssssssssssssyyyssss+-         Memory: 922MiB / 3842MiB 
+        `:+ssssssssssssssssss+:`
+            .-/+oossssoo+/-.                                       
+                                                                   
+
+
+
+ dhomanhuri  lp  ~  cd skripsi/
+
+ dhomanhuri  lp  ~/skripsi  ls
+a.py             majumundur.py       quirc           Test03_TrackQR1.py
+basic.py         mav.parm            rangfinder.py   Test03_TrackQR2.py
+computer-vision  mav.tlog            SOP.txt         Test03_TrackQR.py
+ex.py            mav.tlog.raw        sub.py          tfTest.py
+history.cpp      New folder          takeoffland.py  Untitled Folder
+inputrc          QRfront.py          test02.py       vision-node-master
+launchfile       qr_scanning_drones  test03.py       vision-node-master.zip
+
+ dhomanhuri  lp  ~/skripsi  ls
+a.py             majumundur.py       quirc           Test03_TrackQR1.py
+basic.py         mav.parm            rangfinder.py   Test03_TrackQR2.py
+computer-vision  mav.tlog            SOP.txt         Test03_TrackQR.py
+ex.py            mav.tlog.raw        sub.py          tfTest.py
+history.cpp      New folder          takeoffland.py  Untitled Folder
+inputrc          QRfront.py          test02.py       vision-node-master
+launchfile       qr_scanning_drones  test03.py       vision-node-master.zip
+
+ dhomanhuri  lp  ~/skripsi  python QRfront.py 
+import success
+set connection_string
+connection_string success
+Waitting the drone is armed
+Drone is ARMED
+Taking off
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.10m
+Altitude: 0.09m
+Altitude: 0.09m
+CRITICAL:autopilot:Potential Thrust Loss (2)
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.10m
+Altitude: 0.18m
+Altitude: 0.42m
+Reached target altitude: 0.64m
+Hover
+0
+0
+0
+0
+1
+1
+1
+1
+2
+2
+2
+2
+3
+3
+3
+masuk main
+rule1 = 1500
+rule2a = 1466.09716263
+rule2b = 1541.95141869
+rule3 = 1583.28475202
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0 middle = 0.16097162629 right = 0.665695040377 out=1557.44799486
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1500
+rule2a = 1466.09716263
+rule2b = 1541.95141869
+rule3 = 1583.28475202
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0 middle = 0.16097162629 right = 0.665695040377 out=1557.44799486
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1500
+rule2a = 1499.83237197
+rule2b = 1525.08381401
+rule3 = 1566.41714735
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0 middle = 0.498323719716 right = 0.328342946951 out=1525.82956731
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1500
+rule2a = 1499.83237197
+rule2b = 1525.08381401
+rule3 = 1566.41714735
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0 middle = 0.498323719716 right = 0.328342946951 out=1500
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1500
+rule2a = 1550
+rule2b = 1500
+rule3 = 1550
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0 middle = 1 right = 0 out=1525
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1500
+rule2a = 1529.34360734
+rule2b = 1510.32819633
+rule3 = 1551.66152966
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0 middle = 0.793436073412 right = 0.0332305932551 out=1520.48869037
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1500
+rule2a = 1529.34360734
+rule2b = 1510.32819633
+rule3 = 1551.66152966
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0 middle = 0.793436073412 right = 0.0332305932551 out=1520.48869037
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1500
+rule2a = 1510.09564081
+rule2b = 1519.9521796
+rule3 = 1561.28551293
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0 middle = 0.60095640806 right = 0.225710258607 out=1522.33796844
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1500
+rule2a = 1510.09564081
+rule2b = 1519.9521796
+rule3 = 1561.28551293
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0 middle = 0.60095640806 right = 0.225710258607 out=1522.33796844
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1500
+rule2a = 1508.03934087
+rule2b = 1520.98032957
+rule3 = 1562.3136629
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0 middle = 0.580393408667 right = 0.246273258 out=1522.87678741
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1500
+rule2a = 1502.17446515
+rule2b = 1523.91276743
+rule3 = 1565.24610076
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0 middle = 0.521744651475 right = 0.304922015192 out=1524.84838724
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1500
+rule2a = 1490.10044869
+rule2b = 1529.94977565
+rule3 = 1571.28310899
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0 middle = 0.401004486948 right = 0.425662179719 out=1531.26468628
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1500
+rule2a = 1490.10044869
+rule2b = 1529.94977565
+rule3 = 1571.28310899
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0 middle = 0.401004486948 right = 0.425662179719 out=1531.26468628
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1500
+rule2a = 1459.46582626
+rule2b = 1545.26708687
+rule3 = 1586.6004202
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0 middle = 0.0946582626201 right = 0.732008404047 out=1569.29178044
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1500
+rule2a = 1455.02566376
+rule2b = 1547.48716812
+rule3 = 1588.82050145
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0 middle = 0.0502566375839 right = 0.776410029083 out=1578.78387342
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1500
+rule2a = 1453.33849978
+rule2b = 1548.33075011
+rule3 = 1589.66408344
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0 middle = 0.033384997831 right = 0.793281668836 out=1582.76782034
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1500
+rule2a = 1453.33849978
+rule2b = 1548.33075011
+rule3 = 1589.66408344
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0 middle = 0.033384997831 right = 0.793281668836 out=1582.76782034
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1500
+rule2a = 1465.708069
+rule2b = 1542.1459655
+rule3 = 1583.47929884
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0 middle = 0.157080689965 right = 0.669585976701 out=1558.07414334
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1500
+rule2a = 1465.708069
+rule2b = 1542.1459655
+rule3 = 1583.47929884
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0 middle = 0.157080689965 right = 0.669585976701 out=1558.07414334
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1500
+rule2a = 1473.77520533
+rule2b = 1538.11239733
+rule3 = 1579.44573067
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0 middle = 0.237752053312 right = 0.588914613355 out=1546.61046708
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1500
+rule2a = 1473.77520533
+rule2b = 1538.11239733
+rule3 = 1579.44573067
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0 middle = 0.237752053312 right = 0.588914613355 out=1546.61046708
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1500
+rule2a = 1471.47424648
+rule2b = 1539.26287676
+rule3 = 1580.59621009
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0 middle = 0.214742464838 right = 0.611924201829 out=1500
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1500
+rule2a = 1471.47424648
+rule2b = 1539.26287676
+rule3 = 1580.59621009
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0 middle = 0.214742464838 right = 0.611924201829 out=1549.57176414
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1500
+rule2a = 1455.41849108
+rule2b = 1547.29075446
+rule3 = 1588.62408779
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0 middle = 0.0541849108485 right = 0.772481755818 out=1577.88745905
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1500
+rule2a = 1473.31228724
+rule2b = 1538.34385638
+rule3 = 1579.67718971
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0 middle = 0.233122872418 right = 0.593543794249 out=1547.18787395
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1500
+rule2a = 1490.17708636
+rule2b = 1529.91145682
+rule3 = 1571.24479015
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0 middle = 0.401770863643 right = 0.424895803024 out=1531.21249776
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1500
+rule2a = 1517.13787481
+rule2b = 1516.43106259
+rule3 = 1557.76439593
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0 middle = 0.671378748128 right = 0.155287918539 out=1521.03246248
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1500
+rule2a = 1550
+rule2b = 1500
+rule3 = 1550
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0 middle = 1 right = 0 out=1525
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1500
+rule2a = 1550
+rule2b = 1500
+rule3 = 1550
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0 middle = 1 right = 0 out=1525
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1500
+rule2a = 1550
+rule2b = 1500
+rule3 = 1550
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0 middle = 1 right = 0 out=1525
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1500
+rule2a = 1532.80853132
+rule2b = 1508.59573434
+rule3 = 1549.92906767
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0 middle = 0.828085313196 right = -0.00141864652921 out=1520.67707609
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1500
+rule2a = 1532.80853132
+rule2b = 1508.59573434
+rule3 = 1549.92906767
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0 middle = 0.828085313196 right = -0.00141864652921 out=1520.67707609
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1500
+rule2a = 1513.1963764
+rule2b = 1518.4018118
+rule3 = 1559.73514513
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0 middle = 0.631963763998 right = 0.194702902669 out=1521.66382617
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1500
+rule2a = 1513.1963764
+rule2b = 1518.4018118
+rule3 = 1559.73514513
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0 middle = 0.631963763998 right = 0.194702902669 out=1500
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1500
+rule2a = 1450
+rule2b = 1550
+rule3 = 1600
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0 middle = 0 right = 1 out=1600
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1500
+rule2a = 1450
+rule2b = 1550
+rule3 = 1600
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0 middle = 0 right = 1 out=1600
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1500
+rule2a = 1450
+rule2b = 1550
+rule3 = 1600
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0 middle = 0 right = 1 out=1600
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1500
+rule2a = 1450
+rule2b = 1550
+rule3 = 1600
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0 middle = 0 right = 1 out=1600
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1500
+rule2a = 1450
+rule2b = 1550
+rule3 = 1600
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0 middle = 0 right = 1 out=1500
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1500
+rule2a = 1450
+rule2b = 1550
+rule3 = 1600
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0 middle = 0 right = 1 out=1600
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1500
+rule2a = 1464.38002997
+rule2b = 1542.80998502
+rule3 = 1584.14331835
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0 middle = 0.143800299652 right = 0.682866367014 out=1500
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1500
+rule2a = 1464.38002997
+rule2b = 1542.80998502
+rule3 = 1584.14331835
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0 middle = 0.143800299652 right = 0.682866367014 out=1560.27260118
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1495.17746831
+rule2a = 1540.35493662
+rule2b = 1504.82253169
+rule3 = 1550
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0.0964506337775 middle = 0.903549366223 right = 0 out=1521.19983718
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1485.16243696
+rule2a = 1520.32487392
+rule2b = 1514.83756304
+rule3 = 1550
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0.29675126082 middle = 0.70324873918 right = 0 out=1511.93300394
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1465.3488167
+rule2a = 1480.69763339
+rule2b = 1534.6511833
+rule3 = 1550
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0.693023666052 middle = 0.306976333948 right = 0 out=1485.2312807
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1454.92395493
+rule2a = 1459.84790985
+rule2b = 1545.07604507
+rule3 = 1550
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0.901520901459 middle = 0.0984790985406 right = 0 out=1463.44756109
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1454.92395493
+rule2a = 1459.84790985
+rule2b = 1545.07604507
+rule3 = 1550
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0.901520901459 middle = 0.0984790985406 right = 0 out=1463.44756109
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1458.07321415
+rule2a = 1466.1464283
+rule2b = 1541.92678585
+rule3 = 1550
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0.838535717013 middle = 0.161464282987 right = 0 out=1470.8526795
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1458.07321415
+rule2a = 1466.1464283
+rule2b = 1541.92678585
+rule3 = 1550
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0.838535717013 middle = 0.161464282987 right = 0 out=1470.8526795
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1461.08248438
+rule2a = 1472.16496876
+rule2b = 1538.91751562
+rule3 = 1550
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0.778350312448 middle = 0.221649687552 right = 0 out=1477.21521028
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1473.08376675
+rule2a = 1496.1675335
+rule2b = 1526.91623325
+rule3 = 1550
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0.538324665035 middle = 0.461675334965 right = 0 out=1497.37803162
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1471.62173039
+rule2a = 1493.24346077
+rule2b = 1528.37826961
+rule3 = 1550
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0.567565392252 middle = 0.432434607748 right = 0 out=1495.28317789
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1471.62173039
+rule2a = 1493.24346077
+rule2b = 1528.37826961
+rule3 = 1550
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0.567565392252 middle = 0.432434607748 right = 0 out=1495.28317789
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1475.24594101
+rule2a = 1500.49188201
+rule2b = 1524.75405899
+rule3 = 1550
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0.49508117989 middle = 0.50491882011 right = 0 out=1500.32684953
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1475.24594101
+rule2a = 1500.49188201
+rule2b = 1524.75405899
+rule3 = 1550
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0.49508117989 middle = 0.50491882011 right = 0 out=1500.32684953
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1480.35703916
+rule2a = 1510.71407833
+rule2b = 1519.64296084
+rule3 = 1550
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0.392859216736 middle = 0.607140783264 right = 0 out=1500
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1480.35703916
+rule2a = 1510.71407833
+rule2b = 1519.64296084
+rule3 = 1550
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0.392859216736 middle = 0.607140783264 right = 0 out=1506.66654623
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1500
+rule2a = 1472.22346416
+rule2b = 1538.88826792
+rule3 = 1580.22160125
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0 middle = 0.222234641568 right = 0.604432025098 out=1548.58218433
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1500
+rule2a = 1472.22346416
+rule2b = 1538.88826792
+rule3 = 1580.22160125
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0 middle = 0.222234641568 right = 0.604432025098 out=1548.58218433
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1500
+rule2a = 1476.86431509
+rule2b = 1536.56784245
+rule3 = 1577.90117579
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0 middle = 0.268643150913 right = 0.558023515754 out=1542.98249168
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1500
+rule2a = 1469.59493408
+rule2b = 1540.20253296
+rule3 = 1581.5358663
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0 middle = 0.195949340752 right = 0.630717325915 out=1552.16610182
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1500
+rule2a = 1471.78971571
+rule2b = 1539.10514214
+rule3 = 1580.43847548
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0 middle = 0.217897157128 right = 0.608769509539 out=1549.15204667
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1500
+rule2a = 1477.15042391
+rule2b = 1536.42478804
+rule3 = 1577.75812138
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0 middle = 0.271504239149 right = 0.555162427518 out=1542.66559492
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1500
+rule2a = 1505.39603744
+rule2b = 1522.30198128
+rule3 = 1563.63531461
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0 middle = 0.553960374435 right = 0.272706292231 out=1523.68297487
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1500
+rule2a = 1505.39603744
+rule2b = 1522.30198128
+rule3 = 1563.63531461
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0 middle = 0.553960374435 right = 0.272706292231 out=1523.68297487
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1500
+rule2a = 1513.94070234
+rule2b = 1518.02964883
+rule3 = 1559.36298216
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0 middle = 0.63940702341 right = 0.187259643256 out=1521.52576515
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1500
+rule2a = 1513.94070234
+rule2b = 1518.02964883
+rule3 = 1559.36298216
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0 middle = 0.63940702341 right = 0.187259643256 out=1500
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1500
+rule2a = 1550
+rule2b = 1500
+rule3 = 1550
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0 middle = 1 right = 0 out=1525
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1500
+rule2a = 1550
+rule2b = 1500
+rule3 = 1550
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0 middle = 1 right = 0 out=1525
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1497.42182829
+rule2a = 1544.84365658
+rule2b = 1502.57817171
+rule3 = 1550
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0.0515634342093 middle = 0.948436565791 right = 0 out=1523.01519966
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1492.75327168
+rule2a = 1535.50654337
+rule2b = 1507.24672832
+rule3 = 1550
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0.144934566335 middle = 0.855065433665 right = 0 out=1519.14031857
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1492.75327168
+rule2a = 1535.50654337
+rule2b = 1507.24672832
+rule3 = 1550
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0.144934566335 middle = 0.855065433665 right = 0 out=1519.14031857
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1490.81813379
+rule2a = 1531.63626758
+rule2b = 1509.18186621
+rule3 = 1550
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0.183637324218 middle = 0.816362675782 right = 0 out=1500
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1489.50225264
+rule2a = 1529.00450527
+rule2b = 1510.49774736
+rule3 = 1550
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0.209954947261 middle = 0.790045052739 right = 0 out=1500
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1500
+rule2a = 1550
+rule2b = 1500
+rule3 = 1550
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0 middle = 1 right = 0 out=1525
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1500
+rule2a = 1550
+rule2b = 1500
+rule3 = 1550
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0 middle = 1 right = 0 out=1500
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1500
+rule2a = 1550
+rule2b = 1500
+rule3 = 1550
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0 middle = 1 right = 0 out=1500
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1500
+rule2a = 1550
+rule2b = 1500
+rule3 = 1550
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0 middle = 1 right = 0 out=1500
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1500
+rule2a = 1550
+rule2b = 1500
+rule3 = 1550
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0 middle = 1 right = 0 out=1500
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1500
+rule2a = 1550
+rule2b = 1500
+rule3 = 1550
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0 middle = 1 right = 0 out=1500
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1500
+rule2a = 1550
+rule2b = 1500
+rule3 = 1550
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0 middle = 1 right = 0 out=1500
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1500
+rule2a = 1550
+rule2b = 1500
+rule3 = 1550
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0 middle = 1 right = 0 out=1500
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1500
+rule2a = 1550
+rule2b = 1500
+rule3 = 1550
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0 middle = 1 right = 0 out=1500
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1500
+rule2a = 1550
+rule2b = 1500
+rule3 = 1550
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0 middle = 1 right = 0 out=1500
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1500
+rule2a = 1550
+rule2b = 1500
+rule3 = 1550
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 0 middle = 1 right = 0 out=1525
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1500
+rule2a = 1448.14032022
+rule2b = 1550.92983989
+rule3 = 1592.26317322
+arule1 = 1500
+arule2a = 1360.76469128
+arule2b = 1539.23530872
+arule3 = 1539.23530872
+left = 0 middle = -0.0185967977676 right = 0.845263464434 out=1500
+down = 0 a_middle = 0.607646912776 up = 0.392353087224 out2=1471.77825777
+rule1 = 1500
+rule2a = 1448.14032022
+rule2b = 1550.92983989
+rule3 = 1592.26317322
+arule1 = 1500
+arule2a = 1360.76469128
+arule2b = 1539.23530872
+arule3 = 1539.23530872
+left = 0 middle = -0.0185967977676 right = 0.845263464434 out=1500
+down = 0 a_middle = 0.607646912776 up = 0.392353087224 out2=1471.77825777
+rule1 = 1500
+rule2a = 1448.14032022
+rule2b = 1550.92983989
+rule3 = 1592.26317322
+arule1 = 1500
+arule2a = 1360.76469128
+arule2b = 1539.23530872
+arule3 = 1539.23530872
+left = 0 middle = -0.0185967977676 right = 0.845263464434 out=1500
+down = 0 a_middle = 0.607646912776 up = 0.392353087224 out2=1471.77825777
+rule1 = 1500
+rule2a = 1455.55510157
+rule2b = 1547.22244922
+rule3 = 1588.55578255
+arule1 = 1491.44145979
+arule2a = 1385.05406323
+arule2b = 1514.94593677
+arule3 = 1500
+left = 0 middle = 0.0555510156954 right = 0.771115650971 out=1577.57841068
+down = 0.0427927010382 a_middle = 0.850540632295 up = 0 out2=1451.0169267
+rule1 = 1500
+rule2a = 1455.55510157
+rule2b = 1547.22244922
+rule3 = 1588.55578255
+arule1 = 1491.44145979
+arule2a = 1385.05406323
+arule2b = 1514.94593677
+arule3 = 1500
+left = 0 middle = 0.0555510156954 right = 0.771115650971 out=1500
+down = 0.0427927010382 a_middle = 0.850540632295 up = 0 out2=1451.0169267
+rule1 = 1500
+rule2a = 1455.55510157
+rule2b = 1547.22244922
+rule3 = 1588.55578255
+arule1 = 1491.44145979
+arule2a = 1385.05406323
+arule2b = 1514.94593677
+arule3 = 1500
+left = 0 middle = 0.0555510156954 right = 0.771115650971 out=1500
+down = 0.0427927010382 a_middle = 0.850540632295 up = 0 out2=1451.0169267
+rule1 = 1500
+rule2a = 1455.55510157
+rule2b = 1547.22244922
+rule3 = 1588.55578255
+arule1 = 1491.44145979
+arule2a = 1385.05406323
+arule2b = 1514.94593677
+arule3 = 1500
+left = 0 middle = 0.0555510156954 right = 0.771115650971 out=1500
+down = 0.0427927010382 a_middle = 0.850540632295 up = 0 out2=1451.0169267
+rule1 = 1500
+rule2a = 1455.55510157
+rule2b = 1547.22244922
+rule3 = 1588.55578255
+arule1 = 1491.44145979
+arule2a = 1385.05406323
+arule2b = 1514.94593677
+arule3 = 1500
+left = 0 middle = 0.0555510156954 right = 0.771115650971 out=1577.57841068
+down = 0.0427927010382 a_middle = 0.850540632295 up = 0 out2=1451.0169267
+rule1 = 1500
+rule2a = 1488.25386015
+rule2b = 1530.87306992
+rule3 = 1572.20640326
+arule1 = 1500
+arule2a = 1400
+arule2b = 1500
+arule3 = 1500
+left = 0 middle = 0.382538601534 right = 0.444128065133 out=1500
+down = 0 a_middle = 1 up = 0 out2=1450
+rule1 = 1500
+rule2a = 1488.25386015
+rule2b = 1530.87306992
+rule3 = 1572.20640326
+arule1 = 1500
+arule2a = 1400
+arule2b = 1500
+arule3 = 1500
+left = 0 middle = 0.382538601534 right = 0.444128065133 out=1500
+down = 0 a_middle = 1 up = 0 out2=1450
+rule1 = 1500
+rule2a = 1488.25386015
+rule2b = 1530.87306992
+rule3 = 1572.20640326
+arule1 = 1500
+arule2a = 1400
+arule2b = 1500
+arule3 = 1500
+left = 0 middle = 0.382538601534 right = 0.444128065133 out=1500
+down = 0 a_middle = 1 up = 0 out2=1450
+rule1 = 1500
+rule2a = 1488.25386015
+rule2b = 1530.87306992
+rule3 = 1572.20640326
+arule1 = 1500
+arule2a = 1400
+arule2b = 1500
+arule3 = 1500
+left = 0 middle = 0.382538601534 right = 0.444128065133 out=1532.57154123
+down = 0 a_middle = 1 up = 0 out2=1450
+rule1 = 1487.45017116
+rule2a = 1524.90034232
+rule2b = 1512.54982884
+rule3 = 1550
+arule1 = 1500
+arule2a = 1400
+arule2b = 1500
+arule3 = 1500
+left = 0.250996576835 middle = 0.749003423165 right = 0 out=1500
+down = 0 a_middle = 1 up = 0 out2=1450
+rule1 = 1461.73088358
+rule2a = 1473.46176716
+rule2b = 1538.26911642
+rule3 = 1550
+arule1 = 1498.39117411
+arule2a = 1388.52892039
+arule2b = 1511.47107961
+arule3 = 1500
+left = 0.765382328429 middle = 0.234617671571 right = 0 out=1478.50489795
+down = 0.00804412945672 a_middle = 0.885289203877 up = 0 out2=1450.21885749
+rule1 = 1461.73088358
+rule2a = 1473.46176716
+rule2b = 1538.26911642
+rule3 = 1550
+arule1 = 1498.39117411
+arule2a = 1388.52892039
+arule2b = 1511.47107961
+arule3 = 1500
+left = 0.765382328429 middle = 0.234617671571 right = 0 out=1500
+down = 0.00804412945672 a_middle = 0.885289203877 up = 0 out2=1450.21885749
+rule1 = 1461.73088358
+rule2a = 1473.46176716
+rule2b = 1538.26911642
+rule3 = 1550
+arule1 = 1498.39117411
+arule2a = 1388.52892039
+arule2b = 1511.47107961
+arule3 = 1500
+left = 0.765382328429 middle = 0.234617671571 right = 0 out=1478.50489795
+down = 0.00804412945672 a_middle = 0.885289203877 up = 0 out2=1450.21885749
+rule1 = 1494.9891353
+rule2a = 1539.97827061
+rule2b = 1505.0108647
+rule3 = 1550
+arule1 = 1487.57076371
+arule2a = 1383.11871519
+arule2b = 1516.88128481
+arule3 = 1500
+left = 0.100217293916 middle = 0.899782706084 right = 0 out=1521.04360171
+down = 0.0621461814528 a_middle = 0.831187151881 up = 0 out2=1451.3539297
+rule1 = 1500
+rule2a = 1550
+rule2b = 1500
+rule3 = 1550
+arule1 = 1493.29565706
+arule2a = 1385.98116186
+arule2b = 1514.01883814
+arule3 = 1500
+left = 0 middle = 1 right = 0 out=1500
+down = 0.0335217146888 a_middle = 0.859811618645 up = 0 out2=1450.82785206
+rule1 = 1500
+rule2a = 1550
+rule2b = 1500
+rule3 = 1550
+arule1 = 1493.29565706
+arule2a = 1385.98116186
+arule2b = 1514.01883814
+arule3 = 1500
+left = 0 middle = 1 right = 0 out=1500
+down = 0.0335217146888 a_middle = 0.859811618645 up = 0 out2=1450.82785206
+rule1 = 1500
+rule2a = 1550
+rule2b = 1500
+rule3 = 1550
+arule1 = 1493.29565706
+arule2a = 1385.98116186
+arule2b = 1514.01883814
+arule3 = 1500
+left = 0 middle = 1 right = 0 out=1500
+down = 0.0335217146888 a_middle = 0.859811618645 up = 0 out2=1450.82785206
+rule1 = 1500
+rule2a = 1550
+rule2b = 1500
+rule3 = 1550
+arule1 = 1493.29565706
+arule2a = 1385.98116186
+arule2b = 1514.01883814
+arule3 = 1500
+left = 0 middle = 1 right = 0 out=1500
+down = 0.0335217146888 a_middle = 0.859811618645 up = 0 out2=1450.82785206
+rule1 = 1500
+rule2a = 1550
+rule2b = 1500
+rule3 = 1550
+arule1 = 1493.29565706
+arule2a = 1385.98116186
+arule2b = 1514.01883814
+arule3 = 1500
+left = 0 middle = 1 right = 0 out=1500
+down = 0.0335217146888 a_middle = 0.859811618645 up = 0 out2=1450.82785206
+rule1 = 1500
+rule2a = 1550
+rule2b = 1500
+rule3 = 1550
+arule1 = 1493.29565706
+arule2a = 1385.98116186
+arule2b = 1514.01883814
+arule3 = 1500
+left = 0 middle = 1 right = 0 out=1500
+down = 0.0335217146888 a_middle = 0.859811618645 up = 0 out2=1450.82785206
+rule1 = 1500
+rule2a = 1550
+rule2b = 1500
+rule3 = 1550
+arule1 = 1493.29565706
+arule2a = 1385.98116186
+arule2b = 1514.01883814
+arule3 = 1500
+left = 0 middle = 1 right = 0 out=1500
+down = 0.0335217146888 a_middle = 0.859811618645 up = 0 out2=1450.82785206
+rule1 = 1500
+rule2a = 1550
+rule2b = 1500
+rule3 = 1550
+arule1 = 1493.29565706
+arule2a = 1385.98116186
+arule2b = 1514.01883814
+arule3 = 1500
+left = 0 middle = 1 right = 0 out=1500
+down = 0.0335217146888 a_middle = 0.859811618645 up = 0 out2=1450.82785206
+rule1 = 1500
+rule2a = 1550
+rule2b = 1500
+rule3 = 1550
+arule1 = 1493.29565706
+arule2a = 1385.98116186
+arule2b = 1514.01883814
+arule3 = 1500
+left = 0 middle = 1 right = 0 out=1500
+down = 0.0335217146888 a_middle = 0.859811618645 up = 0 out2=1450.82785206
+rule1 = 1500
+rule2a = 1550
+rule2b = 1500
+rule3 = 1550
+arule1 = 1493.29565706
+arule2a = 1385.98116186
+arule2b = 1514.01883814
+arule3 = 1500
+left = 0 middle = 1 right = 0 out=1500
+down = 0.0335217146888 a_middle = 0.859811618645 up = 0 out2=1450.82785206
+rule1 = 1500
+rule2a = 1550
+rule2b = 1500
+rule3 = 1550
+arule1 = 1493.29565706
+arule2a = 1385.98116186
+arule2b = 1514.01883814
+arule3 = 1500
+left = 0 middle = 1 right = 0 out=1500
+down = 0.0335217146888 a_middle = 0.859811618645 up = 0 out2=1450.82785206
+rule1 = 1500
+rule2a = 1550
+rule2b = 1500
+rule3 = 1550
+arule1 = 1493.29565706
+arule2a = 1385.98116186
+arule2b = 1514.01883814
+arule3 = 1500
+left = 0 middle = 1 right = 0 out=1500
+down = 0.0335217146888 a_middle = 0.859811618645 up = 0 out2=1450.82785206
+rule1 = 1500
+rule2a = 1550
+rule2b = 1500
+rule3 = 1550
+arule1 = 1493.29565706
+arule2a = 1385.98116186
+arule2b = 1514.01883814
+arule3 = 1500
+left = 0 middle = 1 right = 0 out=1500
+down = 0.0335217146888 a_middle = 0.859811618645 up = 0 out2=1450.82785206
+rule1 = 1500
+rule2a = 1550
+rule2b = 1500
+rule3 = 1550
+arule1 = 1493.29565706
+arule2a = 1385.98116186
+arule2b = 1514.01883814
+arule3 = 1500
+left = 0 middle = 1 right = 0 out=1500
+down = 0.0335217146888 a_middle = 0.859811618645 up = 0 out2=1450.82785206
+rule1 = 1500
+rule2a = 1550
+rule2b = 1500
+rule3 = 1550
+arule1 = 1493.29565706
+arule2a = 1385.98116186
+arule2b = 1514.01883814
+arule3 = 1500
+left = 0 middle = 1 right = 0 out=1500
+down = 0.0335217146888 a_middle = 0.859811618645 up = 0 out2=1450.82785206
+rule1 = 1500
+rule2a = 1550
+rule2b = 1500
+rule3 = 1550
+arule1 = 1493.29565706
+arule2a = 1385.98116186
+arule2b = 1514.01883814
+arule3 = 1500
+left = 0 middle = 1 right = 0 out=1500
+down = 0.0335217146888 a_middle = 0.859811618645 up = 0 out2=1450.82785206
+rule1 = 1500
+rule2a = 1550
+rule2b = 1500
+rule3 = 1550
+arule1 = 1493.29565706
+arule2a = 1385.98116186
+arule2b = 1514.01883814
+arule3 = 1500
+left = 0 middle = 1 right = 0 out=1500
+down = 0.0335217146888 a_middle = 0.859811618645 up = 0 out2=1450.82785206
+rule1 = 1500
+rule2a = 1550
+rule2b = 1500
+rule3 = 1550
+arule1 = 1493.29565706
+arule2a = 1385.98116186
+arule2b = 1514.01883814
+arule3 = 1500
+left = 0 middle = 1 right = 0 out=1500
+down = 0.0335217146888 a_middle = 0.859811618645 up = 0 out2=1450.82785206
+rule1 = 1500
+rule2a = 1550
+rule2b = 1500
+rule3 = 1550
+arule1 = 1493.29565706
+arule2a = 1385.98116186
+arule2b = 1514.01883814
+arule3 = 1500
+left = 0 middle = 1 right = 0 out=1500
+down = 0.0335217146888 a_middle = 0.859811618645 up = 0 out2=1450.82785206
+rule1 = 1500
+rule2a = 1550
+rule2b = 1500
+rule3 = 1550
+arule1 = 1493.29565706
+arule2a = 1385.98116186
+arule2b = 1514.01883814
+arule3 = 1500
+left = 0 middle = 1 right = 0 out=1500
+down = 0.0335217146888 a_middle = 0.859811618645 up = 0 out2=1450.82785206
+rule1 = 1500
+rule2a = 1550
+rule2b = 1500
+rule3 = 1550
+arule1 = 1493.29565706
+arule2a = 1385.98116186
+arule2b = 1514.01883814
+arule3 = 1500
+left = 0 middle = 1 right = 0 out=1500
+down = 0.0335217146888 a_middle = 0.859811618645 up = 0 out2=1450.82785206
+rule1 = 1500
+rule2a = 1550
+rule2b = 1500
+rule3 = 1550
+arule1 = 1493.29565706
+arule2a = 1385.98116186
+arule2b = 1514.01883814
+arule3 = 1500
+left = 0 middle = 1 right = 0 out=1500
+down = 0.0335217146888 a_middle = 0.859811618645 up = 0 out2=1450.82785206
+rule1 = 1500
+rule2a = 1550
+rule2b = 1500
+rule3 = 1550
+arule1 = 1493.29565706
+arule2a = 1385.98116186
+arule2b = 1514.01883814
+arule3 = 1500
+left = 0 middle = 1 right = 0 out=1500
+down = 0.0335217146888 a_middle = 0.859811618645 up = 0 out2=1450.82785206
+rule1 = 1500
+rule2a = 1550
+rule2b = 1500
+rule3 = 1550
+arule1 = 1493.29565706
+arule2a = 1385.98116186
+arule2b = 1514.01883814
+arule3 = 1500
+left = 0 middle = 1 right = 0 out=1500
+down = 0.0335217146888 a_middle = 0.859811618645 up = 0 out2=1450.82785206
+rule1 = 1500
+rule2a = 1550
+rule2b = 1500
+rule3 = 1550
+arule1 = 1493.29565706
+arule2a = 1385.98116186
+arule2b = 1514.01883814
+arule3 = 1500
+left = 0 middle = 1 right = 0 out=1500
+down = 0.0335217146888 a_middle = 0.859811618645 up = 0 out2=1450.82785206
+rule1 = 1500
+rule2a = 1550
+rule2b = 1500
+rule3 = 1550
+arule1 = 1493.29565706
+arule2a = 1385.98116186
+arule2b = 1514.01883814
+arule3 = 1500
+left = 0 middle = 1 right = 0 out=1500
+down = 0.0335217146888 a_middle = 0.859811618645 up = 0 out2=1450.82785206
+rule1 = 1500
+rule2a = 1550
+rule2b = 1500
+rule3 = 1550
+arule1 = 1493.29565706
+arule2a = 1385.98116186
+arule2b = 1514.01883814
+arule3 = 1500
+left = 0 middle = 1 right = 0 out=1500
+down = 0.0335217146888 a_middle = 0.859811618645 up = 0 out2=1450.82785206
+rule1 = 1500
+rule2a = 1550
+rule2b = 1500
+rule3 = 1550
+arule1 = 1493.29565706
+arule2a = 1385.98116186
+arule2b = 1514.01883814
+arule3 = 1500
+left = 0 middle = 1 right = 0 out=1500
+down = 0.0335217146888 a_middle = 0.859811618645 up = 0 out2=1450.82785206
+rule1 = 1500
+rule2a = 1550
+rule2b = 1500
+rule3 = 1550
+arule1 = 1493.29565706
+arule2a = 1385.98116186
+arule2b = 1514.01883814
+arule3 = 1500
+left = 0 middle = 1 right = 0 out=1500
+down = 0.0335217146888 a_middle = 0.859811618645 up = 0 out2=1450.82785206
+rule1 = 1500
+rule2a = 1550
+rule2b = 1500
+rule3 = 1550
+arule1 = 1493.29565706
+arule2a = 1385.98116186
+arule2b = 1514.01883814
+arule3 = 1500
+left = 0 middle = 1 right = 0 out=1500
+down = 0.0335217146888 a_middle = 0.859811618645 up = 0 out2=1450.82785206
+rule1 = 1500
+rule2a = 1550
+rule2b = 1500
+rule3 = 1550
+arule1 = 1493.29565706
+arule2a = 1385.98116186
+arule2b = 1514.01883814
+arule3 = 1500
+left = 0 middle = 1 right = 0 out=1525
+down = 0.0335217146888 a_middle = 0.859811618645 up = 0 out2=1450.82785206
+rule1 = 1450
+rule2a = 1450
+rule2b = 1550
+rule3 = 1550
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 1 middle = 0 right = 0 out=1450
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1450
+rule2a = 1450
+rule2b = 1550
+rule3 = 1550
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 1 middle = 0 right = 0 out=1450
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1450
+rule2a = 1450
+rule2b = 1550
+rule3 = 1550
+arule1 = 1500
+arule2a = 1300
+arule2b = 1600
+arule3 = 1600
+left = 1 middle = 0 right = 0 out=1450
+down = 0 a_middle = 0 up = 1 out2=1600
+rule1 = 1450
+rule2a = 1450
+rule2b = 1550
+rule3 = 1550
+arule1 = 1500
+arule2a = 1302.15733365
+arule2b = 1597.84266635
+arule3 = 1597.84266635
+left = 1 middle = 0 right = 0 out=1450
+down = 0 a_middle = 0.0215733364998 up = 0.9784266635 out2=1591.59845563
+rule1 = 1450
+rule2a = 1450
+rule2b = 1550
+rule3 = 1550
+arule1 = 1500
+arule2a = 1316.06600498
+arule2b = 1583.93399502
+arule3 = 1583.93399502
+left = 1 middle = 0 right = 0 out=1450
+down = 0 a_middle = 0.160660049783 up = 0.839339950217 out2=1546.85536496
+rule1 = 1450
+rule2a = 1450
+rule2b = 1550
+rule3 = 1550
+arule1 = 1500
+arule2a = 1316.06600498
+arule2b = 1583.93399502
+arule3 = 1583.93399502
+left = 1 middle = 0 right = 0 out=1450
+down = 0 a_middle = 0.160660049783 up = 0.839339950217 out2=1546.85536496
+rule1 = 1450
+rule2a = 1450
+rule2b = 1550
+rule3 = 1550
+arule1 = 1500
+arule2a = 1318.36972507
+arule2b = 1581.63027493
+arule3 = 1581.63027493
+left = 1 middle = 0 right = 0 out=1450
+down = 0 a_middle = 0.18369725072 up = 0.81630274928 out2=1540.77503158
+rule1 = 1450
+rule2a = 1450
+rule2b = 1550
+rule3 = 1550
+arule1 = 1500
+arule2a = 1350.81619593
+arule2b = 1549.18380407
+arule3 = 1549.18380407
+left = 1 middle = 0 right = 0 out=1450
+down = 0 a_middle = 0.508161959284 up = 0.491838040716 out2=1482.34557639
+rule1 = 1450
+rule2a = 1450
+rule2b = 1550
+rule3 = 1550
+arule1 = 1500
+arule2a = 1363.9195482
+arule2b = 1536.0804518
+arule3 = 1536.0804518
+left = 1 middle = 0 right = 0 out=1450
+down = 0 a_middle = 0.639195482017 up = 0.360804517983 out2=1468.94723128
+rule1 = 1450
+rule2a = 1450
+rule2b = 1550
+rule3 = 1550
+arule1 = 1500
+arule2a = 1363.9195482
+arule2b = 1536.0804518
+arule3 = 1536.0804518
+left = 1 middle = 0 right = 0 out=1450
+down = 0 a_middle = 0.639195482017 up = 0.360804517983 out2=1468.94723128
+rule1 = 1450
+rule2a = 1450
+rule2b = 1550
+rule3 = 1550
+arule1 = 1500
+arule2a = 1374.27403305
+arule2b = 1525.72596695
+arule3 = 1525.72596695
+left = 1 middle = 0 right = 0 out=1450
+down = 0 a_middle = 0.74274033054 up = 0.25725966946 out2=1461.17850829
+rule1 = 1450
+rule2a = 1450
+rule2b = 1550
+rule3 = 1550
+arule1 = 1500
+arule2a = 1374.27403305
+arule2b = 1525.72596695
+arule3 = 1525.72596695
+left = 1 middle = 0 right = 0 out=1450
+down = 0 a_middle = 0.74274033054 up = 0.25725966946 out2=1461.17850829
+rule1 = 1450
+rule2a = 1450
+rule2b = 1550
+rule3 = 1550
+arule1 = 1500
+arule2a = 1383.26813697
+arule2b = 1516.73186303
+arule3 = 1516.73186303
+left = 1 middle = 0 right = 0 out=1450
+down = 0 a_middle = 0.832681369702 up = 0.167318630298 out2=1456.09243052
+rule1 = 1450
+rule2a = 1450
+rule2b = 1550
+rule3 = 1550
+arule1 = 1500
+arule2a = 1384.75316227
+arule2b = 1515.24683773
+arule3 = 1515.24683773
+left = 1 middle = 0 right = 0 out=1450
+down = 0 a_middle = 0.847531622689 up = 0.152468377311 out2=1455.3845246
+rule1 = 1450
+rule2a = 1450
+rule2b = 1550
+rule3 = 1550
+arule1 = 1500
+arule2a = 1384.75316227
+arule2b = 1515.24683773
+arule3 = 1515.24683773
+left = 1 middle = 0 right = 0 out=1450
+down = 0 a_middle = 0.847531622689 up = 0.152468377311 out2=1455.3845246
+rule1 = 1450
+rule2a = 1450
+rule2b = 1550
+rule3 = 1550
+arule1 = 1500
+arule2a = 1392.84360941
+arule2b = 1507.15639059
+arule3 = 1507.15639059
+left = 1 middle = 0 right = 0 out=1450
+down = 0 a_middle = 0.92843609411 up = 0.0715639058896 out2=1452.12106306
+rule1 = 1450
+rule2a = 1450
+rule2b = 1550
+rule3 = 1550
+arule1 = 1500
+arule2a = 1392.84360941
+arule2b = 1507.15639059
+arule3 = 1507.15639059
+left = 1 middle = 0 right = 0 out=1450
+down = 0 a_middle = 0.92843609411 up = 0.0715639058896 out2=1452.12106306
+rule1 = 1450
+rule2a = 1450
+rule2b = 1550
+rule3 = 1550
+arule1 = 1500
+arule2a = 1393.99802257
+arule2b = 1506.00197743
+arule3 = 1506.00197743
+left = 1 middle = 0 right = 0 out=1450
+down = 0 a_middle = 0.939980225682 up = 0.0600197743182 out2=1451.73260841
+rule1 = 1450
+rule2a = 1450
+rule2b = 1550
+rule3 = 1550
+arule1 = 1500
+arule2a = 1393.99802257
+arule2b = 1506.00197743
+arule3 = 1506.00197743
+left = 1 middle = 0 right = 0 out=1450
+down = 0 a_middle = 0.939980225682 up = 0.0600197743182 out2=1451.73260841
+rule1 = 1450
+rule2a = 1450
+rule2b = 1550
+rule3 = 1550
+arule1 = 1500
+arule2a = 1388.20706214
+arule2b = 1511.79293786
+arule3 = 1511.79293786
+left = 1 middle = 0 right = 0 out=1450
+down = 0 a_middle = 0.88207062137 up = 0.11792937863 out2=1453.87190719
+rule1 = 1450
+rule2a = 1450
+rule2b = 1550
+rule3 = 1550
+arule1 = 1500
+arule2a = 1400
+arule2b = 1500
+arule3 = 1500
+left = 1 middle = 0 right = 0 out=1450
+down = 0 a_middle = 1 up = 0 out2=1450
+rule1 = 1450
+rule2a = 1450
+rule2b = 1550
+rule3 = 1550
+arule1 = 1500
+arule2a = 1400
+arule2b = 1500
+arule3 = 1500
+left = 1 middle = 0 right = 0 out=1450
+down = 0 a_middle = 1 up = 0 out2=1450
+rule1 = 1450
+rule2a = 1450
+rule2b = 1550
+rule3 = 1550
+arule1 = 1500
+arule2a = 1400
+arule2b = 1500
+arule3 = 1500
+left = 1 middle = 0 right = 0 out=1450
+down = 0 a_middle = 1 up = 0 out2=1450
+rule1 = 1450
+rule2a = 1450
+rule2b = 1550
+rule3 = 1550
+arule1 = 1500
+arule2a = 1400
+arule2b = 1500
+arule3 = 1500
+left = 1 middle = 0 right = 0 out=1450
+down = 0 a_middle = 1 up = 0 out2=1450
+rule1 = 1450
+rule2a = 1450
+rule2b = 1550
+rule3 = 1550
+arule1 = 1500
+arule2a = 1400
+arule2b = 1500
+arule3 = 1500
+left = 1 middle = 0 right = 0 out=1450
+down = 0 a_middle = 1 up = 0 out2=1450
+rule1 = 1450
+rule2a = 1450
+rule2b = 1550
+rule3 = 1550
+arule1 = 1500
+arule2a = 1400
+arule2b = 1500
+arule3 = 1500
+left = 1 middle = 0 right = 0 out=1450
+down = 0 a_middle = 1 up = 0 out2=1450
+rule1 = 1450
+rule2a = 1450
+rule2b = 1550
+rule3 = 1550
+arule1 = 1500
+arule2a = 1400
+arule2b = 1500
+arule3 = 1500
+left = 1 middle = 0 right = 0 out=1450
+down = 0 a_middle = 1 up = 0 out2=1450
+rule1 = 1450
+rule2a = 1450
+rule2b = 1550
+rule3 = 1550
+arule1 = 1500
+arule2a = 1400
+arule2b = 1500
+arule3 = 1500
+left = 1 middle = 0 right = 0 out=1450
+down = 0 a_middle = 1 up = 0 out2=1450
+rule1 = 1450
+rule2a = 1450
+rule2b = 1550
+rule3 = 1550
+arule1 = 1502.23929545
+arule2a = 1390.45298106
+arule2b = 1509.54701894
+arule3 = 1500
+left = 1 middle = 0 right = 0 out=1450
+down = -0.0111964772684 a_middle = 0.904529810602 up = 0 out2=1449.67467152
+rule1 = 1450
+rule2a = 1450
+rule2b = 1550
+rule3 = 1550
+arule1 = 1502.23929545
+arule2a = 1390.45298106
+arule2b = 1509.54701894
+arule3 = 1500
+left = 1 middle = 0 right = 0 out=1450
+down = -0.0111964772684 a_middle = 0.904529810602 up = 0 out2=1449.67467152
+rule1 = 1450
+rule2a = 1450
+rule2b = 1550
+rule3 = 1550
+arule1 = 1502.01029475
+arule2a = 1390.33848071
+arule2b = 1509.66151929
+arule3 = 1500
+left = 1 middle = 0 right = 0 out=1450
+down = -0.0100514737642 a_middle = 0.903384807098 up = 0 out2=1449.7090361
+rule1 = 1450
+rule2a = 1450
+rule2b = 1550
+rule3 = 1550
+arule1 = 1502.01029475
+arule2a = 1390.33848071
+arule2b = 1509.66151929
+arule3 = 1500
+left = 1 middle = 0 right = 0 out=1450
+down = -0.0100514737642 a_middle = 0.903384807098 up = 0 out2=1449.7090361
+rule1 = 1450
+rule2a = 1450
+rule2b = 1550
+rule3 = 1550
+arule1 = 1502.17640816
+arule2a = 1390.42153741
+arule2b = 1509.57846259
+arule3 = 1500
+left = 1 middle = 0 right = 0 out=1450
+down = -0.0108820407954 a_middle = 0.904215374129 up = 0 out2=1449.68413329
+rule1 = 1450
+rule2a = 1450
+rule2b = 1550
+rule3 = 1550
+arule1 = 1502.17640816
+arule2a = 1390.42153741
+arule2b = 1509.57846259
+arule3 = 1500
+left = 1 middle = 0 right = 0 out=1450
+down = -0.0108820407954 a_middle = 0.904215374129 up = 0 out2=1449.68413329
+rule1 = 1450
+rule2a = 1450
+rule2b = 1550
+rule3 = 1550
+arule1 = 1500
+arule2a = 1400
+arule2b = 1500
+arule3 = 1500
+left = 1 middle = 0 right = 0 out=1450
+down = 0 a_middle = 1 up = 0 out2=1450
+rule1 = 1450
+rule2a = 1450
+rule2b = 1550
+rule3 = 1550
+arule1 = 1502.1280805
+arule2a = 1390.39737359
+arule2b = 1509.60262641
+arule3 = 1500
+left = 1 middle = 0 right = 0 out=1450
+down = -0.0106404025188 a_middle = 0.903973735852 up = 0 out2=1449.69139177
+rule1 = 1450
+rule2a = 1450
+rule2b = 1550
+rule3 = 1550
+arule1 = 1502.1280805
+arule2a = 1390.39737359
+arule2b = 1509.60262641
+arule3 = 1500
+left = 1 middle = 0 right = 0 out=1450
+down = -0.0106404025188 a_middle = 0.903973735852 up = 0 out2=1449.69139177
+rule1 = 1450
+rule2a = 1450
+rule2b = 1550
+rule3 = 1550
+arule1 = 1500
+arule2a = 1400
+arule2b = 1500
+arule3 = 1500
+left = 1 middle = 0 right = 0 out=1450
+down = 0 a_middle = 1 up = 0 out2=1450
+rule1 = 1450
+rule2a = 1450
+rule2b = 1550
+rule3 = 1550
+arule1 = 1500
+arule2a = 1400
+arule2b = 1500
+arule3 = 1500
+left = 1 middle = 0 right = 0 out=1450
+down = 0 a_middle = 1 up = 0 out2=1450
+rule1 = 1450
+rule2a = 1450
+rule2b = 1550
+rule3 = 1550
+arule1 = 1500
+arule2a = 1400
+arule2b = 1500
+arule3 = 1500
+left = 1 middle = 0 right = 0 out=1450
+down = 0 a_middle = 1 up = 0 out2=1450
+rule1 = 1450
+rule2a = 1450
+rule2b = 1550
+rule3 = 1550
+arule1 = 1500
+arule2a = 1400
+arule2b = 1500
+arule3 = 1500
+left = 1 middle = 0 right = 0 out=1450
+down = 0 a_middle = 1 up = 0 out2=1450
+rule1 = 1450
+rule2a = 1450
+rule2b = 1550
+rule3 = 1550
+arule1 = 1500
+arule2a = 1400
+arule2b = 1500
+arule3 = 1500
+left = 1 middle = 0 right = 0 out=1450
+down = 0 a_middle = 1 up = 0 out2=1450
+rule1 = 1450
+rule2a = 1450
+rule2b = 1550
+rule3 = 1550
+arule1 = 1500
+arule2a = 1400
+arule2b = 1500
+arule3 = 1500
+left = 1 middle = 0 right = 0 out=1450
+down = 0 a_middle = 1 up = 0 out2=1450
+rule1 = 1450
+rule2a = 1450
+rule2b = 1550
+rule3 = 1550
+arule1 = 1500
+arule2a = 1400
+arule2b = 1500
+arule3 = 1500
+left = 1 middle = 0 right = 0 out=1450
+down = 0 a_middle = 1 up = 0 out2=1450
+rule1 = 1450
+rule2a = 1450
+rule2b = 1550
+rule3 = 1550
+arule1 = 1500
+arule2a = 1400
+arule2b = 1500
+arule3 = 1500
+left = 1 middle = 0 right = 0 out=1450
+down = 0 a_middle = 1 up = 0 out2=1450
+rule1 = 1450
+rule2a = 1450
+rule2b = 1550
+rule3 = 1550
+arule1 = 1500
+arule2a = 1400
+arule2b = 1500
+arule3 = 1500
+left = 1 middle = 0 right = 0 out=1450
+down = 0 a_middle = 1 up = 0 out2=1450
+rule1 = 1450
+rule2a = 1450
+rule2b = 1550
+rule3 = 1550
+arule1 = 1489.72269986
+arule2a = 1384.19468326
+arule2b = 1515.80531674
+arule3 = 1500
+left = 1 middle = 0 right = 0 out=1450
+down = 0.0513865007082 a_middle = 0.841946832625 up = 0 out2=1451.17630028
+rule1 = 1450
+rule2a = 1450
+rule2b = 1550
+rule3 = 1550
+arule1 = 1492.63321185
+arule2a = 1385.64993926
+arule2b = 1514.35006074
+arule3 = 1500
+left = 1 middle = 0 right = 0 out=1450
+down = 0.0368339407376 a_middle = 0.856499392596 up = 0 out2=1450.89742818
+rule1 = 1450
+rule2a = 1450
+rule2b = 1550
+rule3 = 1550
+arule1 = 1492.63321185
+arule2a = 1385.64993926
+arule2b = 1514.35006074
+arule3 = 1500
+left = 1 middle = 0 right = 0 out=1450
+down = 0.0368339407376 a_middle = 0.856499392596 up = 0 out2=1450.89742818
+rule1 = 1450
+rule2a = 1450
+rule2b = 1550
+rule3 = 1550
+arule1 = 1500.30631669
+arule2a = 1389.48649168
+arule2b = 1510.51350832
+arule3 = 1500
+left = 1 middle = 0 right = 0 out=1450
+down = -0.00153158342601 a_middle = 0.894864916759 up = 0 out2=1449.95691288
+rule1 = 1450
+rule2a = 1450
+rule2b = 1550
+rule3 = 1550
+arule1 = 1500.30631669
+arule2a = 1389.48649168
+arule2b = 1510.51350832
+arule3 = 1500
+left = 1 middle = 0 right = 0 out=1450
+down = -0.00153158342601 a_middle = 0.894864916759 up = 0 out2=1449.95691288
+rule1 = 1450
+rule2a = 1450
+rule2b = 1550
+rule3 = 1550
+arule1 = 1500
+arule2a = 1400
+arule2b = 1500
+arule3 = 1500
+left = 1 middle = 0 right = 0 out=1450
+down = 0 a_middle = 1 up = 0 out2=1450
+rule1 = 1450
+rule2a = 1450
+rule2b = 1550
+rule3 = 1550
+arule1 = 1500
+arule2a = 1400
+arule2b = 1500
+arule3 = 1500
+left = 1 middle = 0 right = 0 out=1450
+down = 0 a_middle = 1 up = 0 out2=1450
+rule1 = 1450
+rule2a = 1450
+rule2b = 1550
+rule3 = 1550
+arule1 = 1500
+arule2a = 1392.33707847
+arule2b = 1507.66292153
+arule3 = 1507.66292153
+left = 1 middle = 0 right = 0 out=1450
+down = 0 a_middle = 0.923370784694 up = 0.0766292153061 out2=1452.29735445
+rule1 = 1450.10399785
+rule2a = 1450.2079957
+rule2b = 1549.89600215
+rule3 = 1550
+arule1 = 1500
+arule2a = 1357.82303469
+arule2b = 1542.17696531
+arule3 = 1542.17696531
+left = 0.997920042994 middle = 0.00207995700566 right = 0 out=1450.31134596
+down = 0 a_middle = 0.578230346878 up = 0.421769653122 out2=1474.63356934
+rule1 = 1450
+rule2a = 1450
+rule2b = 1550
+rule3 = 1550
+arule1 = 1500
+arule2a = 1363.42225662
+arule2b = 1536.57774338
+arule3 = 1536.57774338
+left = 1 middle = 0 right = 0 out=1450
+down = 0 a_middle = 0.634222566188 up = 0.365777433812 out2=1469.37813457
+rule1 = 1450
+rule2a = 1450
+rule2b = 1550
+rule3 = 1550
+arule1 = 1500
+arule2a = 1363.42225662
+arule2b = 1536.57774338
+arule3 = 1536.57774338
+left = 1 middle = 0 right = 0 out=1450
+down = 0 a_middle = 0.634222566188 up = 0.365777433812 out2=1469.37813457
+rule1 = 1450
+rule2a = 1450
+rule2b = 1550
+rule3 = 1550
+arule1 = 1500
+arule2a = 1377.53972634
+arule2b = 1522.46027366
+arule3 = 1522.46027366
+left = 1 middle = 0 right = 0 out=1450
+down = 0 a_middle = 0.775397263449 up = 0.224602736551 out2=1459.16683612
+rule1 = 1450
+rule2a = 1450
+rule2b = 1550
+rule3 = 1550
+arule1 = 1500
+arule2a = 1377.53972634
+arule2b = 1522.46027366
+arule3 = 1522.46027366
+left = 1 middle = 0 right = 0 out=1450
+down = 0 a_middle = 0.775397263449 up = 0.224602736551 out2=1459.16683612
+rule1 = 1453.56373791
+rule2a = 1457.12747583
+rule2b = 1546.43626209
+rule3 = 1550
+arule1 = 1500
+arule2a = 1381.88886294
+arule2b = 1518.11113706
+arule3 = 1518.11113706
+left = 0.92872524175 middle = 0.0712747582501 right = 0 out=1459.97989886
+down = 0 a_middle = 0.818888629439 up = 0.181111370561 out2=1456.78199928
+rule1 = 1453.56373791
+rule2a = 1457.12747583
+rule2b = 1546.43626209
+rule3 = 1550
+arule1 = 1500
+arule2a = 1381.88886294
+arule2b = 1518.11113706
+arule3 = 1518.11113706
+left = 0.92872524175 middle = 0.0712747582501 right = 0 out=1459.97989886
+down = 0 a_middle = 0.818888629439 up = 0.181111370561 out2=1456.78199928
+rule1 = 1460.42100043
+rule2a = 1470.84200085
+rule2b = 1539.57899957
+rule3 = 1550
+arule1 = 1497.89689035
+arule2a = 1388.28177851
+arule2b = 1511.71822149
+arule3 = 1500
+left = 0.791579991486 middle = 0.208420008514 right = 0 out=1475.87097289
+down = 0.0105155482705 a_middle = 0.882817785063 up = 0 out2=1450.28356937
+rule1 = 1460.42100043
+rule2a = 1470.84200085
+rule2b = 1539.57899957
+rule3 = 1550
+arule1 = 1497.89689035
+arule2a = 1388.28177851
+arule2b = 1511.71822149
+arule3 = 1500
+left = 0.791579991486 middle = 0.208420008514 right = 0 out=1475.87097289
+down = 0.0105155482705 a_middle = 0.882817785063 up = 0 out2=1450.28356937
+rule1 = 1457.63090976
+rule2a = 1465.26181951
+rule2b = 1542.36909024
+rule3 = 1550
+arule1 = 1487.52458167
+arule2a = 1383.09562417
+arule2b = 1516.90437583
+arule3 = 1500
+left = 0.847381804894 middle = 0.152618195106 right = 0 out=1469.86150259
+down = 0.0623770916392 a_middle = 0.830956241694 up = 0 out2=1451.35747168
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1461.68486278
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+left = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+rule1 = 1454.22399999
+rule2a = 1458.44799999
+rule2b = 1545.77600001
+rule3 = 1550
+arule1 = 1454.77702968
+arule2a = 1366.72184817
+arule2b = 1533.27815183
+arule3 = 1500
+^Cleft = 0.915520000124 middle = 0.0844799998755 right = 0 out=1500
+down = 0.226114851603 a_middle = 0.66721848173 up = 0 out2=1450.69216372
+Setting LAND mode...
+Close vehicle object
+
+ dhomanhuri  lp  ~/skripsi  subl QRfront.py 
+
+ dhomanhuri  lp  ~/skripsi  ^C
+
+ dhomanhuri  lp  ~/skripsi  chmod +x QRfront.py 
+
+ dhomanhuri  lp  ~/skripsi  ./QRfront.py 
+import success
+set connection_string
+connection_string success
+Waitting the drone is armed
+CRITICAL:autopilot:PreArm: Mode not armable
+Drone is ARMED
+Taking off
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.08m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.10m
+Altitude: 0.11m
+Altitude: 0.23m
+Altitude: 0.37m
+Altitude: 0.47m
+Altitude: 0.58m
+Reached target altitude: 0.68m
+Hover
+0
+0
+0
+0
+1
+1
+1
+1
+2
+2
+2
+2
+3
+3
+3
+masuk main
+left = 0:middle = 0:right = 1:out=1600:down = 0:a_middle = 0.034035277928:up = 0.965964722072:out2=1586.94602453
+left = 0:middle = 0:right = 1:out=1600:down = 0:a_middle = 0.034035277928:up = 0.965964722072:out2=1586.94602453
+left = 0:middle = -0.0104245930929:right = 0.83709125976:out=1594.20745137:down = 0:a_middle = 0:up = 1:out2=1600
+left = 0:middle = -0.0104245930929:right = 0.83709125976:out=1594.20745137:down = 0:a_middle = 0:up = 1:out2=1600
+left = 0:middle = 0.388108747723:right = 0.438557918944:out=1532.16723676:down = 0:a_middle = 0:up = 1:out2=1600
+left = 0:middle = 0.388108747723:right = 0.438557918944:out=1532.16723676:down = 0:a_middle = 0:up = 1:out2=1600
+left = 0:middle = 0.551615085329:right = 0.275051581338:out=1523.76089487:down = 0:a_middle = 0:up = 1:out2=1600
+left = 0:middle = 0.61731699499:right = 0.209349671677:out=1521.9620639:down = 0:a_middle = 0:up = 1:out2=1600
+left = 0:middle = 0.384913758877:right = 0.441752907789:out=1532.39806143:down = 0:a_middle = 0:up = 1:out2=1600
+left = 0:middle = 0.336267690338:right = 0.490398976329:out=1536.28605892:down = 0:a_middle = 0:up = 1:out2=1600
+left = 0:middle = 0.336267690338:right = 0.490398976329:out=1536.28605892:down = 0:a_middle = 0:up = 1:out2=1600
+left = 0:middle = 0.323656651952:right = 0.503010014715:out=1537.41481651:down = 0:a_middle = 0:up = 1:out2=1600
+left = 0:middle = 0.381361154097:right = 0.445305512569:out=1532.65814033:down = 0:a_middle = 0:up = 1:out2=1600
+left = 0:middle = 0.491421072338:right = 0.335245594328:out=1526.1412747:down = 0:a_middle = 0:up = 1:out2=1600
+left = 0:middle = 0.475212995874:right = 0.351453670793:out=1526.91495862:down = 0:a_middle = 0:up = 1:out2=1600
+left = 0:middle = 0.475212995874:right = 0.351453670793:out=1526.91495862:down = 0:a_middle = 0:up = 1:out2=1600
+left = 0:middle = 0.189784167974:right = 0.636882498693:out=1553.05322252:down = 0:a_middle = 0:up = 1:out2=1600
+left = 0:middle = 0:right = 1:out=1600:down = 0:a_middle = 0:up = 1:out2=1600
+left = 0:middle = 0:right = 1:out=1600:down = 0:a_middle = 0:up = 1:out2=1600
+left = 0:middle = 0:right = 1:out=1600:down = 0:a_middle = 0:up = 1:out2=1600
+left = 0:middle = 0:right = 1:out=1500:down = 0:a_middle = 0:up = 1:out2=1600
+left = 0:middle = 0:right = 1:out=1600:down = 0:a_middle = 0:up = 1:out2=1600
+left = 0:middle = 1:right = 0:out=1500:down = 0:a_middle = 0:up = 1:out2=1600
+left = 0:middle = 1:right = 0:out=1525:down = 0:a_middle = 0:up = 1:out2=1600
+left = 0.0737992962106:middle = 0.926200703789:right = 0:out=1500:down = 0:a_middle = 0:up = 1:out2=1600
+left = 0.0737992962106:middle = 0.926200703789:right = 0:out=1500:down = 0:a_middle = 0:up = 1:out2=1600
+left = 0.0737992962106:middle = 0.926200703789:right = 0:out=1522.12649507:down = 0:a_middle = 0:up = 1:out2=1600
+left = 0.634291604657:middle = 0.365708395343:right = 0:out=1500:down = 0:a_middle = 0:up = 1:out2=1600
+left = 0.634291604657:middle = 0.365708395343:right = 0:out=1500:down = 0:a_middle = 0:up = 1:out2=1600
+left = 0.634291604657:middle = 0.365708395343:right = 0:out=1500:down = 0:a_middle = 0:up = 1:out2=1600
+left = 0.634291604657:middle = 0.365708395343:right = 0:out=1490.1668903:down = 0:a_middle = 0:up = 1:out2=1600
+left = 0.00859913419773:middle = 0.991400865802:right = 0:out=1500:down = 0:a_middle = 0:up = 1:out2=1600
+left = 0.00859913419773:middle = 0.991400865802:right = 0:out=1500:down = 0:a_middle = 0:up = 1:out2=1600
+left = 0.00859913419773:middle = 0.991400865802:right = 0:out=1524.67614001:down = 0:a_middle = 0:up = 1:out2=1600
+left = 0:middle = 0.496354539522:right = 0.330312127144:out=1525.91742499:down = 0:a_middle = 0.0457944981099:up = 0.95420550189:out2=1582.68485284
+left = 0:middle = 0.496354539522:right = 0.330312127144:out=1500:down = 0:a_middle = 0.0457944981099:up = 0.95420550189:out2=1582.68485284
+left = 0:middle = 0.55335946472:right = 0.273307201946:out=1523.70283833:down = 0:a_middle = 0.191050003568:up = 0.808949996432:out2=1538.90265663
+left = 0:middle = 0.589284616871:right = 0.237382049796:out=1522.63455864:down = 0:a_middle = 0.165992108776:up = 0.834007891224:out2=1545.41857958
+left = 0:middle = 0.611290266283:right = 0.215376400384:out=1522.09520916:down = 0:a_middle = 0.171741683113:up = 0.828258316887:out2=1543.8893797
+left = 0:middle = 0.621772962329:right = 0.204893704337:out=1521.86755797:down = 0:a_middle = 0.209958209661:up = 0.790041790339:out2=1534.23323364
+left = 0:middle = 0.625047674433:right = 0.201618992234:out=1521.80021881:down = 0:a_middle = 0.201276682377:up = 0.798723317623:out2=1536.35151353
+left = 0:middle = 0.663111094154:right = 0.163555572513:out=1521.14484246:down = 0:a_middle = 0.229306008303:up = 0.770693991697:out2=1529.66415344
+left = 0:middle = 0.663111094154:right = 0.163555572513:out=1521.14484246:down = 0:a_middle = 0.229306008303:up = 0.770693991697:out2=1529.66415344
+left = 0:middle = 0.580671350894:right = 0.245995315773:out=1522.86899881:down = 0:a_middle = 0.2197947591:up = 0.7802052409:out2=1531.88449991
+left = 0:middle = 0.513307157154:right = 0.313359509513:out=1525.18847448:down = 0:a_middle = 0.297149450661:up = 0.702850549339:out2=1515.17554079
+left = 0:middle = 0.513307157154:right = 0.313359509513:out=1525.18847448:down = 0:a_middle = 0.297149450661:up = 0.702850549339:out2=1515.17554079
+left = 0:middle = 0.299517575458:right = 0.527149091208:out=1539.72467382:down = 0:a_middle = 0.163228900866:up = 0.836771099134:out2=1546.16090359
+left = 0:middle = 0.299517575458:right = 0.527149091208:out=1539.72467382:down = 0:a_middle = 0.163228900866:up = 0.836771099134:out2=1546.16090359
+left = 0:middle = 0.16460948295:right = 0.662057183717:out=1556.86978248:down = 0:a_middle = 0.288451689608:up = 0.711548310392:out2=1516.90783676
+left = 0:middle = 0.0742301934072:right = 0.752436473259:out=1573.4882815:down = 0:a_middle = 0.361519859068:up = 0.638480140932:out2=1503.38864182
+left = 0:middle = 0.19656523913:right = 0.630101427537:out=1500:down = 0:a_middle = 0.398529396455:up = 0.601470603545:out2=1497.37134524
+left = 0:middle = 0.19656523913:right = 0.630101427537:out=1552.07847428:down = 0:a_middle = 0.398529396455:up = 0.601470603545:out2=1497.37134524
+left = 0:middle = 1:right = 0:out=1500:down = 0:a_middle = 0.472054938738:up = 0.527945061262:out2=1486.86672991
+left = 0:middle = 1:right = 0:out=1500:down = 0:a_middle = 0.472054938738:up = 0.527945061262:out2=1486.86672991
+left = 0:middle = 1:right = 0:out=1500:down = 0:a_middle = 0.472054938738:up = 0.527945061262:out2=1486.86672991
+left = 0:middle = 1:right = 0:out=1500:down = 0:a_middle = 0.472054938738:up = 0.527945061262:out2=1486.86672991
+left = 1:middle = 0:right = 0:out=1450:down = 0:a_middle = 0.138651179209:up = 0.861348820791:out2=1552.98116077
+left = 1:middle = 0:right = 0:out=1450:down = 0:a_middle = 0.154295643922:up = 0.845704356078:out2=1548.59415497
+left = 1:middle = 0:right = 0:out=1450:down = 0:a_middle = 0.154295643922:up = 0.845704356078:out2=1548.59415497
+left = 1:middle = 0:right = 0:out=1500:down = 0:a_middle = 0.145181809765:up = 0.854818190235:out2=1551.13007591
+left = 1:middle = 0:right = 0:out=1500:down = 0:a_middle = 0.145181809765:up = 0.854818190235:out2=1551.13007591
+left = 1:middle = 0:right = 0:out=1450:down = 0:a_middle = 0.145181809765:up = 0.854818190235:out2=1551.13007591
+left = 0.940583859025:middle = 0.0594161409748:right = 0:out=1500:down = 0:a_middle = 0.345181492175:up = 0.654818507825:out2=1506.2152049
+left = 0.355571440098:middle = 0.644428559902:right = 0:out=1508.78290267:down = 0:a_middle = 0.346565308305:up = 0.653434691695:out2=1505.97160698
+left = 0.155627624887:middle = 0.844372375113:right = 0:out=1518.67152099:down = 0:a_middle = 0.279558709065:up = 0.720441290935:out2=1518.71558866
+left = 0:middle = 1:right = 0:out=1525:down = 0:a_middle = 0.147578585465:up = 0.852421414535:out2=1550.45786753
+left = 0:middle = 0.779818906013:right = 0.0468477606537:out=1520.45334271:down = 0:a_middle = 0.131877004377:up = 0.868122995623:out2=1554.9318105
+left = 0:middle = 0.779818906013:right = 0.0468477606537:out=1520.45334271:down = 0:a_middle = 0.131877004377:up = 0.868122995623:out2=1554.9318105
+left = 0:middle = 0.605260420994:right = 0.221406245673:out=1522.23462193:down = 0:a_middle = 0.0995029328323:up = 0.900497067168:out2=1564.70124034
+left = 0:middle = 0.567680337564:right = 0.258986329102:out=1523.2482019:down = 0:a_middle = 0.133033201623:up = 0.866966798377:out2=1554.59665498
+left = 0:middle = 0.567680337564:right = 0.258986329102:out=1500:down = 0:a_middle = 0.133033201623:up = 0.866966798377:out2=1554.59665498
+left = 0:middle = 0.567680337564:right = 0.258986329102:out=1523.2482019:down = 0:a_middle = 0.133033201623:up = 0.866966798377:out2=1554.59665498
+left = 0:middle = 1:right = 0:out=1525:down = 0:a_middle = 0:up = 1:out2=1600
+left = 0:middle = 1:right = 0:out=1500:down = 0:a_middle = 0:up = 1:out2=1600
+left = 0:middle = 1:right = 0:out=1500:down = 0:a_middle = 0:up = 1:out2=1600
+left = 0:middle = 1:right = 0:out=1525:down = 0:a_middle = 0:up = 1:out2=1600
+left = 1:middle = 0:right = 0:out=1450:down = 0:a_middle = 0.41462909002:up = 0.58537090998:out2=1494.9124482
+left = 1:middle = 0:right = 0:out=1450:down = 0:a_middle = 0.41462909002:up = 0.58537090998:out2=1494.9124482
+left = 1:middle = 0:right = 0:out=1450:down = 0:a_middle = 0.510260187521:up = 0.489739812479:out2=1482.09480023
+left = 1:middle = 0:right = 0:out=1450:down = 0:a_middle = 0.510260187521:up = 0.489739812479:out2=1482.09480023
+left = 1:middle = 0:right = 0:out=1500:down = 0:a_middle = 0.486406474143:up = 0.513593525857:out2=1485.02239002
+left = 1:middle = 0:right = 0:out=1450:down = 0:a_middle = 0.354273489884:up = 0.645726510116:out2=1504.62899381
+left = 1:middle = 0:right = 0:out=1450:down = 0:a_middle = 0.40257483593:up = 0.59742516407:out2=1496.74470067
+left = 1:middle = 0:right = 0:out=1450:down = 0:a_middle = 0.40257483593:up = 0.59742516407:out2=1496.74470067
+left = 1:middle = 0:right = 0:out=1450:down = 0:a_middle = 0.450639400635:up = 0.549360599365:out2=1489.73953607
+left = 1:middle = 0:right = 0:out=1450:down = 0:a_middle = 0.513596291986:up = 0.486403708014:out2=1481.69870485
+left = 1:middle = 0:right = 0:out=1500:down = 0:a_middle = 0.596939372124:up = 0.403060627876:out2=1472.79286177
+left = 1:middle = 0:right = 0:out=1500:down = 0:a_middle = 0.596939372124:up = 0.403060627876:out2=1472.79286177
+left = 1:middle = 0:right = 0:out=1500:down = 0:a_middle = 0.596939372124:up = 0.403060627876:out2=1472.79286177
+left = 1:middle = 0:right = 0:out=1450:down = 0:a_middle = 0.596939372124:up = 0.403060627876:out2=1472.79286177
+left = 1:middle = 0:right = 0:out=1450:down = 0:a_middle = 0.321794660019:up = 0.678205339981:out2=1510.45304746
+left = 1:middle = 0:right = 0:out=1500:down = 0:a_middle = 0.321794660019:up = 0.678205339981:out2=1510.45304746
+left = 1:middle = 0:right = 0:out=1500:down = 0:a_middle = 0.321794660019:up = 0.678205339981:out2=1510.45304746
+left = 1:middle = 0:right = 0:out=1500:down = 0:a_middle = 0.321794660019:up = 0.678205339981:out2=1510.45304746
+left = 1:middle = 0:right = 0:out=1500:down = 0:a_middle = 0.321794660019:up = 0.678205339981:out2=1510.45304746
+left = 1:middle = 0:right = 0:out=1500:down = 0:a_middle = 0.321794660019:up = 0.678205339981:out2=1510.45304746
+left = 1:middle = 0:right = 0:out=1450:down = 0:a_middle = 0.321794660019:up = 0.678205339981:out2=1510.45304746
+left = 0.447891128508:middle = 0.552108871492:right = 0:out=1500:down = 0:a_middle = 0.540302353682:up = 0.459697646318:out2=1478.64182789
+left = 0.914548460184:middle = 0.085451539816:right = 0:out=1500:down = 0:a_middle = 0.840278292979:up = 0.159721707021:out2=1455.72586644
+left = 0.914548460184:middle = 0.085451539816:right = 0:out=1500:down = 0:a_middle = 0.840278292979:up = 0.159721707021:out2=1455.72586644
+left = 0.914548460184:middle = 0.085451539816:right = 0:out=1461.80866257:down = 0:a_middle = 0.840278292979:up = 0.159721707021:out2=1455.72586644
+left = 0:middle = 0:right = 1:out=1600:down = 0:a_middle = 0.970309922447:up = 0.0296900775531:out2=1450.79817593
+left = 0:middle = 0:right = 1:out=1600:down = 0:a_middle = 0.950757780918:up = 0.0492422190818:out2=1451.38643075
+left = 0:middle = 0:right = 1:out=1600:down = 0:a_middle = 0.751928352064:up = 0.248071647936:out2=1460.59263447
+left = 0:middle = 0:right = 1:out=1500:down = 0:a_middle = 0.751928352064:up = 0.248071647936:out2=1460.59263447
+left = 0:middle = 0:right = 1:out=1500:down = 0:a_middle = 0.751928352064:up = 0.248071647936:out2=1460.59263447
+left = 0:middle = 0:right = 1:out=1600:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0:middle = 0:right = 1:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0:middle = 0:right = 1:out=1600:down = 0:a_middle = 0.775228936014:up = 0.224771063986:out2=1459.17670729
+left = 0:middle = 0:right = 1:out=1600:down = 0:a_middle = 0.534008426878:up = 0.465991573122:out2=1479.34429335
+left = 0:middle = 0:right = 1:out=1600:down = 0:a_middle = 0.530948866385:up = 0.469051133615:out2=1479.6897266
+left = 0:middle = 0:right = 1:out=1500:down = 0:a_middle = 0.531565460016:up = 0.468434539984:out2=1479.61990199
+left = 0:middle = 0.0720677740478:right = 0.754598892619:out=1573.94910472:down = 0:a_middle = 0.435740870945:up = 0.564259129055:out2=1491.82634495
+left = 0:middle = 0.197579055696:right = 0.62908761097:out=1551.93462337:down = 0:a_middle = 0.596362181799:up = 0.403637818201:out2=1472.84834867
+left = 0:middle = 0.39779483568:right = 0.428871830987:out=1500:down = 0:a_middle = 0.77897305186:up = 0.22102694814:out2=1458.95833614
+left = 0.158905057037:middle = 0.841094942963:right = 0:out=1518.52674379:down = 0:a_middle = 0.745764851765:up = 0.254235148235:out2=1460.9839011
+left = 0.158905057037:middle = 0.841094942963:right = 0:out=1518.52674379:down = 0:a_middle = 0.745764851765:up = 0.254235148235:out2=1460.9839011
+left = 0.637451302429:middle = 0.362548697571:right = 0:out=1489.91219157:down = 0:a_middle = 0.867520721764:up = 0.132479278236:out2=1454.48671853
+left = 0.637451302429:middle = 0.362548697571:right = 0:out=1489.91219157:down = 0:a_middle = 0.867520721764:up = 0.132479278236:out2=1454.48671853
+left = 0.754972172263:middle = 0.245027827737:right = 0:out=1479.52076519:down = 0:a_middle = 0.758043636551:up = 0.241956363449:out2=1460.21141113
+left = 0.724864671881:middle = 0.275135328119:right = 0:out=1482.36542687:down = 0:a_middle = 0.770186529111:up = 0.229813470889:out2=1459.47476235
+left = 0.64906515306:middle = 0.35093484694:right = 0:out=1488.96577778:down = 0:a_middle = 0.659368091378:up = 0.340631908622:out2=1467.25633107
+left = 0.543004692764:middle = 0.456995307236:right = 0:out=1497.04839868:down = 0:a_middle = 0.637382782424:up = 0.362617217576:out2=1469.10364874
+left = 0.443604887263:middle = 0.556395112737:right = 0:out=1503.62344448:down = 0:a_middle = 0.533996836269:up = 0.466003163731:out2=1479.34559706
+left = 0.348896981387:middle = 0.651103018613:right = 0:out=1509.15164087:down = 0:a_middle = 0.524397250761:up = 0.475602749239:out2=1480.43821743
+left = 0.297705969311:middle = 0.702294030689:right = 0:out=1511.88361276:down = 0:a_middle = 0.61709979567:up = 0.38290020433:out2=1470.90549201
+left = 0.297705969311:middle = 0.702294030689:right = 0:out=1511.88361276:down = 0:a_middle = 0.61709979567:up = 0.38290020433:out2=1470.90549201
+left = 0:middle = 1:right = 0:out=1525:down = 0:a_middle = 0.931684174488:up = 0.0683158255124:out2=1452.00990231
+left = 0:middle = 1:right = 0:out=1525:down = 0:a_middle = 0.999067252569:up = 0.000932747431021:out2=1450.02337309
+left = 0:middle = 1:right = 0:out=1525:down = 0:a_middle = 0.926077234409:up = 0.0739227655912:out2=1452.20271323
+left = 0:middle = 1:right = 0:out=1525:down = 0:a_middle = 0.926077234409:up = 0.0739227655912:out2=1452.20271323
+left = 0:middle = 1:right = 0:out=1525:down = 0.00372622727858:a_middle = 0.889607106055:up = 0:out2=1450.10293917
+left = 0:middle = 1:right = 0:out=1525:down = -0.0181545269219:a_middle = 0.911487860255:up = 0:out2=1449.46053176
+left = 0:middle = 1:right = 0:out=1525:down = -0.0181545269219:a_middle = 0.911487860255:up = 0:out2=1449.46053176
+left = 0:middle = 0.720869056794:right = 0.105797609873:out=1520.56957172:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0:middle = 0.720869056794:right = 0.105797609873:out=1520.56957172:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0:middle = 0.674412387938:right = 0.152254278728:out=1500:down = 0:a_middle = 0.934906865361:up = 0.0650931346392:out2=1451.90105706
+left = 0:middle = 0.819006912382:right = 0.00765975428477:out=1520.61437813:down = 0:a_middle = 0.954923552699:up = 0.0450764473011:out2=1451.25683225
+left = 0:middle = 1:right = 0:out=1525:down = 0:a_middle = 0.889874911722:up = 0.110125088278:out2=1453.55526595
+left = 0.0508920984515:middle = 0.949107901549:right = 0:out=1523.04171571:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0:middle = 1:right = 0:out=1525:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0:middle = 1:right = 0:out=1525:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0:middle = 1:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0:middle = 1:right = 0:out=1525:down = 0:a_middle = 0.9698125174:up = 0.0301874826002:out2=1450.81251516
+left = 0.199847202717:middle = 0.800152797283:right = 0:out=1516.67374001:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.236532902682:middle = 0.763467097318:right = 0:out=1514.94028994:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.236532902682:middle = 0.763467097318:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.236532902682:middle = 0.763467097318:right = 0:out=1514.94028994:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0:middle = 1:right = 0:out=1525:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0:middle = 1:right = 0:out=1525:down = 0:a_middle = 0.87880550454:up = 0.12119449546:out2=1454.00708606
+left = 0:middle = 1:right = 0:out=1525:down = 0:a_middle = 0.87880550454:up = 0.12119449546:out2=1454.00708606
+left = 0:middle = 1:right = 0:out=1500:down = 0:a_middle = 0.894937342058:up = 0.105062657942:out2=1453.35470148
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1519.85888251:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+left = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+^Cleft = 0.128301617319:middle = 0.871698382681:right = 0:out=1500:down = 0:a_middle = 1:up = 0:out2=1450
+Setting LAND mode...
+Close vehicle object
+
+ dhomanhuri  lp  ~/skripsi  subl data1.txt
+
+ dhomanhuri  lp  ~/skripsi  subl data1.txt^C
+
+ dhomanhuri  lp  ~/skripsi  ./
+basic.py            history.cpp         New folder/         qr_scanning_drones/ sub.py              Untitled Folder/    
+computer-vision/    launchfile/         QRfront.py          quirc/              test03.py           vision-node-master/ 
+
+ dhomanhuri  lp  ~/skripsi  ./QRfront.py 
+import success
+set connection_string
+connection_string success
+Waitting the drone is armed
+CRITICAL:autopilot:PreArm: Mode not armable
+CRITICAL:autopilot:PreArm: Mode not armable
+CRITICAL:autopilot:PreArm: Mode not armable
+Drone is ARMED
+Taking off
+Altitude: 0.08m
+Altitude: 0.08m
+Altitude: 0.08m
+Altitude: 0.08m
+Altitude: 0.08m
+Altitude: 0.08m
+Altitude: 0.08m
+Altitude: 0.08m
+Altitude: 0.08m
+Altitude: 0.08m
+Altitude: 0.08m
+Altitude: 0.08m
+Altitude: 0.08m
+Altitude: 0.08m
+Altitude: 0.08m
+Altitude: 0.08m
+Altitude: 0.08m
+Altitude: 0.08m
+Altitude: 0.08m
+Altitude: 0.08m
+Altitude: 0.08m
+Altitude: 0.08m
+Altitude: 0.08m
+Altitude: 0.08m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.08m
+Altitude: 0.08m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.16m
+Altitude: 0.31m
+Altitude: 0.46m
+Altitude: 0.46m
+Reached target altitude: 0.71m
+Hover
+0
+0
+0
+0
+1
+1
+1
+1
+2
+2
+2
+2
+3
+3
+3
+masuk main
+LR=0.170476528511UD=-0.0881497748749FB=1.32492049918
+LR=0.170476528511UD=-0.0881497748749FB=1.32492049918
+LR=0.168214137071UD=-0.0921837902982FB=1.31718166937
+LR=0.168214137071UD=-0.0921837902982FB=1.31718166937
+LR=0.17205019477UD=-0.0767580889755FB=1.33310282361
+LR=0.171279992709UD=-0.196383329193FB=1.32339772482
+LR=0.137438774009UD=-0.111226437854FB=1.3405979592
+LR=0.137438774009UD=-0.111226437854FB=1.3405979592
+LR=0.137438774009UD=-0.111226437854FB=1.3405979592
+LR=-0.0314277178738UD=-0.169037069181FB=1.44802611998
+LR=-0.0314277178738UD=-0.169037069181FB=1.44802611998
+LR=0.103249410049UD=-0.14188696808FB=1.47794738305
+LR=0.101488457041UD=-0.135749270656FB=1.47755896493
+LR=0.101488457041UD=-0.135749270656FB=1.47755896493
+LR=0.101032890101UD=-0.1212798076FB=1.50627223391
+LR=0.101032890101UD=-0.1212798076FB=1.50627223391
+LR=0.107219375418UD=-0.127170194398FB=1.50308411224
+LR=0.107219375418UD=-0.127170194398FB=1.50308411224
+LR=0.107219375418UD=-0.127170194398FB=1.50308411224
+LR=0.107219375418UD=-0.127170194398FB=1.50308411224
+LR=0.107219375418UD=-0.127170194398FB=1.50308411224
+LR=0.107219375418UD=-0.127170194398FB=1.50308411224
+LR=0.107219375418UD=-0.127170194398FB=1.50308411224
+LR=0.107219375418UD=-0.127170194398FB=1.50308411224
+LR=0.107219375418UD=-0.127170194398FB=1.50308411224
+LR=0.107219375418UD=-0.127170194398FB=1.50308411224
+LR=0.107219375418UD=-0.127170194398FB=1.50308411224
+LR=0.107219375418UD=-0.127170194398FB=1.50308411224
+LR=0.107219375418UD=-0.127170194398FB=1.50308411224
+LR=0.107219375418UD=-0.127170194398FB=1.50308411224
+LR=0.107219375418UD=-0.127170194398FB=1.50308411224
+LR=0.107219375418UD=-0.127170194398FB=1.50308411224
+LR=0.107219375418UD=-0.127170194398FB=1.50308411224
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+LR=0.111176679659UD=-0.124662481332FB=1.72640688187
+^CSetting LAND mode...
+Close vehicle object
+
+ dhomanhuri  lp  ~/skripsi  ./QRfront.py 
+import success
+set connection_string
+connection_string success
+Waitting the drone is armed
+Drone is ARMED
+Taking off
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.10m
+Altitude: 0.11m
+Altitude: 0.17m
+Altitude: 0.32m
+Altitude: 0.52m
+Reached target altitude: 0.72m
+Hover
+0
+0
+0
+0
+1
+1
+1
+1
+2
+2
+2
+2
+3
+3
+3
+masuk main
+LR=0.0282063490997UD=-0.141493634618
+LR=0.0282063490997UD=-0.141493634618
+LR=9.51179633226e-05UD=-0.155837127444
+LR=-0.00429011078643UD=-0.154877169262
+LR=0.00185869652464UD=-0.15471175505
+LR=0.00185869652464UD=-0.15471175505
+LR=-0.00212351763969UD=-0.279697581355
+LR=-0.00212351763969UD=-0.279697581355
+LR=-0.00494171724254UD=-0.217854405022
+LR=-0.00494171724254UD=-0.217854405022
+LR=0.0185698873557UD=-0.189824018025
+LR=0.0185698873557UD=-0.189824018025
+LR=0.031401496865UD=-0.191545182207
+LR=0.0892733611187UD=-0.185512836928
+LR=0.0888695810781UD=-0.172991137618
+LR=0.0858929385753UD=-0.168380125031
+LR=0.0858929385753UD=-0.168380125031
+LR=0.032984872517UD=-0.140396040668
+LR=0.0298099858716UD=-0.137926466298
+LR=0.0244355953474UD=-0.132983537498
+LR=0.0244355953474UD=-0.132983537498
+LR=0.0244355953474UD=-0.132983537498
+LR=0.180263643888UD=-0.173906909839
+LR=0.166025955016UD=-0.170711360462
+LR=0.164479477839UD=-0.129738187095
+LR=0.127342109481UD=-0.125618435312
+LR=0.0931440145092UD=-0.112893229313
+LR=0.0674789910048UD=-0.0900949255326
+LR=0.0507982131088UD=-0.169715102765
+LR=0.076117131626UD=-0.154770153659
+LR=0.07760324538UD=-0.163989932846
+LR=0.07760324538UD=-0.163989932846
+LR=0.0865607050522UD=-0.158245301734
+LR=0.0762024331801UD=-0.14515877686
+LR=0.0762024331801UD=-0.14515877686
+LR=0.0762024331801UD=-0.14515877686
+LR=0.0762024331801UD=-0.14515877686
+LR=0.112586000906UD=-0.075730215479
+LR=0.112586000906UD=-0.075730215479
+LR=0.0592561199434UD=-0.0403962056952
+LR=0.0678757862351UD=-0.0470184759995
+LR=0.0678757862351UD=-0.0470184759995
+LR=0.0678757862351UD=-0.0470184759995
+LR=0.19805262449UD=-0.090380993732
+LR=0.19805262449UD=-0.090380993732
+LR=0.19805262449UD=-0.090380993732
+LR=0.0716623939949UD=-0.0834418484968
+LR=0.0716623939949UD=-0.0834418484968
+LR=0.0716623939949UD=-0.0834418484968
+LR=0.0459944923886UD=-0.111557415999
+LR=0.0207644456035UD=-0.123227386857
+LR=0.0207644456035UD=-0.123227386857
+LR=0.031342472789UD=-0.0814636716418
+LR=0.031342472789UD=-0.0814636716418
+LR=0.159407276301UD=-0.073095774272
+LR=0.176704708997UD=-0.0852225544927
+LR=0.176704708997UD=-0.0852225544927
+LR=0.176704708997UD=-0.0852225544927
+LR=0.176704708997UD=-0.0852225544927
+LR=0.176704708997UD=-0.0852225544927
+LR=-0.00145756985222UD=-0.0702949619349
+LR=-0.00145756985222UD=-0.0702949619349
+LR=-0.00145756985222UD=-0.0702949619349
+LR=-0.00145756985222UD=-0.0702949619349
+LR=-0.00145756985222UD=-0.0702949619349
+LR=-0.00145756985222UD=-0.0702949619349
+LR=0.0526241777486UD=-0.0965351402361
+LR=0.0680722524138UD=-0.0852630764689
+LR=0.123274726558UD=-0.0465464433944
+LR=0.121732247342UD=-0.056463536859
+LR=0.110701369048UD=-0.0676123630726
+LR=0.110701369048UD=-0.0676123630726
+LR=0.105326003284UD=-0.0634000243304
+LR=0.115459308593UD=-0.0821373827012
+LR=0.115459308593UD=-0.0821373827012
+LR=0.0591652924923UD=-0.0358151207178
+LR=0.0591652924923UD=-0.0358151207178
+LR=0.0591652924923UD=-0.0358151207178
+LR=0.0519536129457UD=-0.083356411958
+LR=0.0519536129457UD=-0.083356411958
+LR=-0.0454451247583UD=-0.0267517183056
+LR=-0.140408467165UD=-0.00647084904503
+LR=-0.140408467165UD=-0.00647084904503
+LR=-0.179344367007UD=-0.0492011036769
+LR=-0.179344367007UD=-0.0492011036769
+LR=-0.216200567267UD=-0.0648355368831
+LR=-0.240616144599UD=-0.0361333054946
+LR=-0.240616144599UD=-0.0361333054946
+LR=-0.229162295353UD=0.00992138493241
+LR=-0.229162295353UD=0.00992138493241
+LR=-0.202634618597UD=-0.0116085005273
+LR=-0.196161259395UD=-0.0227651130695
+LR=-0.202325697756UD=-0.0122450268588
+LR=-0.202325697756UD=-0.0122450268588
+LR=-0.193610183433UD=-0.00982857272592
+LR=-0.197512251866UD=-0.0203994187627
+LR=-0.187946567198UD=-0.0128416392053
+LR=-0.181570160383UD=-0.0237331996154
+LR=-0.18599372125UD=0.00689530682528
+LR=-0.18599372125UD=0.00689530682528
+LR=-0.198422767514UD=-0.0299993939099
+LR=-0.198422767514UD=-0.0299993939099
+LR=-0.22469705918UD=-0.0138088929299
+LR=-0.222950455211UD=-0.0359314684253
+LR=-0.16091977943UD=-0.0191851279583
+LR=-0.162307520653UD=-0.0250143133169
+LR=-0.162307520653UD=-0.0250143133169
+LR=-0.167182465777UD=-0.0237012137886
+LR=-0.183372747893UD=-0.0274344848486
+LR=-0.204619823126UD=-0.0174978377761
+LR=-0.204619823126UD=-0.0174978377761
+LR=-0.199969227323UD=-0.0216020059176
+LR=-0.199969227323UD=-0.0216020059176
+LR=-0.168842166174UD=-0.0200761554927
+LR=-0.159302126835UD=0.00203899135521
+LR=-0.157586756804UD=0.00828780685269
+LR=-0.157586756804UD=0.00828780685269
+LR=-0.15790014118UD=0.019670902505
+LR=-0.15790014118UD=0.019670902505
+LR=-0.194308968685UD=0.0399565946633
+LR=-0.216617823549UD=0.0546673285482
+LR=-0.216617823549UD=0.0546673285482
+LR=-0.20509549004UD=0.0446920385417
+LR=-0.194535329457UD=0.0454974351919
+LR=-0.185692934559UD=0.045488481774
+LR=-0.185692934559UD=0.045488481774
+LR=-0.173794467509UD=0.0444032952585
+LR=-0.156396526093UD=0.077599601508
+LR=-0.156396526093UD=0.077599601508
+LR=-0.142574004054UD=0.0921044872976
+LR=-0.142574004054UD=0.0921044872976
+LR=-0.138750735055UD=0.0820255506658
+LR=-0.12971227188UD=0.0773303055425
+LR=-0.12971227188UD=0.0773303055425
+LR=-0.121364977233UD=0.0707842936016
+LR=-0.121364977233UD=0.0707842936016
+LR=-0.102647770935UD=0.0665862296536
+LR=-0.0371450876603UD=0.104956972301
+LR=-0.0323357627454UD=0.0920073706039
+LR=-0.0355822202055UD=0.0904354371641
+LR=-0.0355822202055UD=0.0904354371641
+LR=-0.0446252000945UD=0.110661317287
+LR=-0.0446252000945UD=0.110661317287
+LR=-0.0496385574145UD=0.122179737663
+LR=-0.0459502387877UD=0.12308391028
+LR=-0.0155842158412UD=0.113294914993
+LR=-0.0155842158412UD=0.113294914993
+LR=0.348512768008UD=-0.0275788126594
+LR=0.353396162728UD=-0.0430772370264
+LR=0.353396162728UD=-0.0430772370264
+LR=0.338456518168UD=-0.0519255590317
+LR=0.338456518168UD=-0.0519255590317
+LR=0.329946137735UD=-0.0658021122787
+LR=0.304095666446UD=-0.0803168610125
+LR=0.2918899387UD=-0.0544828275186
+LR=0.2918899387UD=-0.0544828275186
+LR=0.277618987952UD=-0.0491511809795
+LR=0.277618987952UD=-0.0491511809795
+LR=0.28044467568UD=-0.0664054089539
+LR=0.28044467568UD=-0.0664054089539
+LR=0.281597676944UD=-0.0581111676393
+LR=0.274453538284UD=-0.056381139512
+LR=0.275416197451UD=-0.0498785681194
+LR=0.275416197451UD=-0.0498785681194
+LR=0.271795072362UD=-0.0726909413421
+LR=0.268889252686UD=-0.0815087947444
+LR=0.283695411675UD=-0.080704125506
+LR=0.283695411675UD=-0.080704125506
+LR=0.290749013106UD=-0.0939265566102
+LR=0.294965461829UD=-0.106755322579
+LR=0.28608489259UD=-0.103625319
+LR=0.287351022742UD=-0.114794122947
+LR=0.300428858506UD=-0.125615336267
+LR=0.30557970885UD=-0.119336149816
+LR=0.30557970885UD=-0.119336149816
+LR=0.336410636314UD=-0.11345972331
+LR=0.336410636314UD=-0.11345972331
+LR=0.329034474954UD=-0.118176415418
+LR=0.329034474954UD=-0.118176415418
+LR=0.312657373452UD=-0.108105508661
+LR=0.312657373452UD=-0.108105508661
+LR=0.275401786014UD=-0.100255288229
+LR=0.275401786014UD=-0.100255288229
+LR=0.222605914703UD=-0.0890515790732
+LR=0.222605914703UD=-0.0890515790732
+LR=0.191016405496UD=-0.0778912782286
+LR=0.129576346318UD=-0.0849217001565
+LR=0.116958804353UD=-0.0676287742684
+LR=0.115448637271UD=-0.0588272148804
+LR=0.115448637271UD=-0.0588272148804
+LR=0.106079600555UD=-0.0484535525209
+LR=0.106079600555UD=-0.0484535525209
+LR=0.110258746629UD=-0.0558050100997
+LR=0.110258746629UD=-0.0558050100997
+LR=0.128247344914UD=-0.0609365256159
+LR=0.131175487543UD=-0.0575489213555
+LR=0.121784020517UD=-0.046470346719
+LR=0.117956289179UD=-0.0293319096815
+LR=0.112070877811UD=-0.0241254293193
+LR=0.112070877811UD=-0.0241254293193
+LR=0.115462532979UD=-0.019126816155
+LR=0.121368846058UD=-0.000124572085281
+LR=0.112978669686UD=0.0125588982572
+LR=0.116674819273UD=0.0014216037861
+LR=0.10450475883UD=-0.0238885085697
+LR=0.0928701835135UD=-0.0415206904452
+LR=0.0767205201386UD=-0.0447169262806
+LR=0.0767205201386UD=-0.0447169262806
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+LR=0.0985808324394UD=-0.0126090602148
+^CSetting LAND mode...
+Close vehicle object
+
+ dhomanhuri  lp  ~/skripsi  ./QRfront.py 
+import success
+set connection_string
+connection_string success
+Waitting the drone is armed
+Drone is ARMED
+Taking off
+Altitude: 0.08m
+Altitude: 0.08m
+Altitude: 0.08m
+Altitude: 0.08m
+Altitude: 0.08m
+Altitude: 0.08m
+Altitude: 0.08m
+Altitude: 0.08m
+Altitude: 0.08m
+Altitude: 0.08m
+Altitude: 0.08m
+Altitude: 0.08m
+Altitude: 0.08m
+Altitude: 0.08m
+Altitude: 0.08m
+Altitude: 0.08m
+Altitude: 0.08m
+Altitude: 0.08m
+Altitude: 0.08m
+Altitude: 0.08m
+Altitude: 0.08m
+Altitude: 0.08m
+Altitude: 0.08m
+Altitude: 0.08m
+Altitude: 0.08m
+Altitude: 0.08m
+Altitude: 0.08m
+Altitude: 0.08m
+Altitude: 0.08m
+Altitude: 0.08m
+Altitude: 0.08m
+Altitude: 0.08m
+Altitude: 0.08m
+Altitude: 0.08m
+Altitude: 0.08m
+Altitude: 0.08m
+Altitude: 0.08m
+Altitude: 0.08m
+Altitude: 0.08m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.10m
+Altitude: 0.13m
+Altitude: 0.17m
+Altitude: 0.27m
+Altitude: 0.27m
+Altitude: 0.25m
+Altitude: 0.25m
+Altitude: 0.25m
+Altitude: 0.25m
+CRITICAL:autopilot:Crash: Disarming
+Altitude: 0.25m
+Altitude: 0.25m
+Altitude: 0.25m
+Altitude: 0.25m
+Altitude: 0.25m
+Altitude: 0.25m
+Altitude: 0.25m
+Altitude: 0.25m
+Altitude: 0.25m
+Altitude: 0.25m
+Altitude: 0.25m
+Altitude: 0.25m
+Altitude: 0.25m
+Altitude: 0.24m
+WARNING:autopilot:EKF2 IMU1 has stopped aiding
+WARNING:autopilot:EKF2 IMU0 has stopped aiding
+Altitude: 0.25m
+Altitude: 0.25m
+Altitude: 0.25m
+Altitude: 0.26m
+Altitude: 0.25m
+Altitude: 0.26m
+Altitude: 0.25m
+Altitude: 0.26m
+Altitude: 0.25m
+Altitude: 0.29m
+Altitude: 0.27m
+Altitude: 0.22m
+Altitude: 0.18m
+Altitude: 0.11m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+^CTraceback (most recent call last):
+  File "./QRfront.py", line 60, in <module>
+    time.sleep(0.25)
+KeyboardInterrupt
+
+ dhomanhuri  lp  ~/skripsi  ./QRfront.py 
+import success
+set connection_string
+connection_string success
+Waitting the drone is armed
+Drone is ARMED
+Taking off
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.07m
+Altitude: 0.08m
+Altitude: 0.08m
+Altitude: 0.08m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.08m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.08m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.09m
+Altitude: 0.10m
+Altitude: 0.12m
+Altitude: 0.16m
+Altitude: 0.22m
+Altitude: 0.25m
+Altitude: 0.26m
+Altitude: 0.27m
+Altitude: 0.27m
+Altitude: 0.27m
+CRITICAL:autopilot:Crash: Disarming
+Altitude: 0.27m
+Altitude: 0.27m
+Altitude: 0.27m
+Altitude: 0.26m
+Altitude: 0.27m
+Altitude: 0.27m
+Altitude: 0.27m
+Altitude: 0.27m
+Altitude: 0.26m
+Altitude: 0.26m
+Altitude: 0.27m
+Altitude: 0.27m
+Altitude: 0.27m
+Altitude: 0.26m
+WARNING:autopilot:EKF2 IMU0 has stopped aiding
+WARNING:autopilot:EKF2 IMU1 has stopped aiding
+Altitude: 0.26m
+Altitude: 0.27m
+Altitude: 0.26m
+Altitude: 0.27m
+Altitude: 0.26m
+Altitude: 0.26m
+Altitude: 0.26m
+Altitude: 0.26m
+Altitude: 0.26m
+Altitude: 0.27m
+Altitude: 0.26m
+Altitude: 0.27m
+Altitude: 0.26m
+Altitude: 0.26m
+Altitude: 0.26m
+Altitude: 0.26m
+Altitude: 0.27m
+Altitude: 0.26m
+Altitude: 0.26m
+Altitude: 0.26m
+WARNING:autopilot:EKF2 IMU0 has stopped aiding
+WARNING:autopilot:EKF2 IMU1 has stopped aiding
+Altitude: 0.26m
+Altitude: 0.26m
+^CTraceback (most recent call last):
+  File "./QRfront.py", line 60, in <module>
+    time.sleep(0.25)
+KeyboardInterrupt
